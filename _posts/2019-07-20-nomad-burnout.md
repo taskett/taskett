@@ -3,7 +3,7 @@ layout: post
 title:  "How Nomadism Contributes to Burnout and What to do about It"
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
-image: assets/images/11.jpg
+image: assets/images/nomad_burnout_cycle.png
 description: "Long-term travel contributes to burnout. Here's why, and what you can do about it."
 featured: true
 hidden: true
