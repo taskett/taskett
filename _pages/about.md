@@ -15,7 +15,6 @@ When I'm not working, I love hiking in mountains, and making authentic food from
 ## Projects
 
 <div class="row">
-  
   <div class="column">
     <center>
         <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Done with Life">
@@ -23,7 +22,6 @@ When I'm not working, I love hiking in mountains, and making authentic food from
         <p>A burnout Calculator 🔥</p>
     </center>
   </div>
-
   <div class="column">
     <center>
         <img class ="project_img" src="assets/images/about/3.jpg" alt="bangkok Street Food">
@@ -31,8 +29,7 @@ When I'm not working, I love hiking in mountains, and making authentic food from
         <p>Some text..</p>
     </center>
   </div>
-
-
+</div>
 
 <div class="row">
   <div class="column">
@@ -50,4 +47,4 @@ When I'm not working, I love hiking in mountains, and making authentic food from
         <p>Some text..</p>
     <center>    
   </div>
-
+</div>
