@@ -31,7 +31,7 @@ When I'm not working, I love hiking in mountains, and making authentic food from
   </div>
 </div>
 
-<div class="row">
+<div class="row" ahref>
   <div class="column">
     <center>
         <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Travel Writing">
@@ -43,7 +43,7 @@ When I'm not working, I love hiking in mountains, and making authentic food from
   <div class="column">
     <center>
         <img class ="project_img" src="assets/images/about/molcajete.png" alt="Recipes">
-        <h4>Recipes</h4>
+        <h4>Untamed Eats</h4>
         <p>My favorite authentic recipes from my world travels</p>
     <center>    
   </div>
