@@ -30,14 +30,18 @@ When I'm not working, I love hiking in mountains, and making authentic food from
 </div>
 <div class="row">
   <div class="column">
-    <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Travel Writing">
-    <h4>Travel Writing</h4>
-    <p>Some text..</p>
+    <center>
+        <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Travel Writing">
+        <h4>Travel Writing</h4>
+        <p>Some text..</p>
+    </center>
   </div>
   <div class="column">
-    <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Recipes">
-    <h4>Recipes</h4>
-    <p>Some text..</p>
+    <center>
+        <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Recipes">
+        <h4>Recipes</h4>
+        <p>Some text..</p>
+    <center>    
   </div>
 </div>
 
