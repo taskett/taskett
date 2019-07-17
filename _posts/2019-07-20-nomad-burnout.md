@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "How Nomadism Contributes to Burnout and What to Do about It"
-author: madi
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
