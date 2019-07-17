@@ -10,7 +10,7 @@ comments: false
 
 Howdy! I’m Madi, and I make things that light me up inside. 
 
-I love hiking in mountains, and making authentic food from around the world.
+When I'm not working, I love hiking in mountains, and making authentic food from around the world.
 
 ## Projects
 
