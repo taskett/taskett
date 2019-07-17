@@ -5,11 +5,16 @@ permalink: /about
 comments: true
 ---
 
-<img class ="about_img" src="assets/images/about/happy_madi.jpg" alt="">
+<img class ="about_img" src="assets/images/about/happy_madi.jpg" alt="Madi Taskett">
 
 ## Projects
 
 
+#### Done with Life
+
+<img class ="about_img" src="assets/images/about/done_with_life.png" alt="Done with Life">
+
+#### Bangkok Street Food Cookbook
 
 
 ### Previous Failures
