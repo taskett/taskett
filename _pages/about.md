@@ -2,7 +2,7 @@
 layout: page
 title: About Madi
 permalink: /about
-comments: true
+comments: false
 ---
 
 <img class ="about_img" src="assets/images/about/happy_madi.jpg" alt="Madi Taskett">
@@ -17,6 +17,10 @@ comments: true
 #### Bangkok Street Food Cookbook
 
 <img class ="about_img" src="assets/images/about/3.jpg" alt="Done with Life">
+
+#### Travel Writing
+
+#### Recipes
 
 ### Previous Failures
 Why not share the failures as well as the successes?
