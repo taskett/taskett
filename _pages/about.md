@@ -17,7 +17,7 @@ When I'm not working, I love hiking in mountains, and making authentic food from
 <div class="row">
   <div class="column">
     <h2>Done with Life</h2>
-    <img class =".project_img" src="assets/images/about/done_with_life.png" alt="Done with Life">
+    <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Done with Life">
   </div>
   <div class="column">
     <h3>Bangkok Street Food</h3>
@@ -35,13 +35,10 @@ When I'm not working, I love hiking in mountains, and making authentic food from
   </div>
 </div>
 
-#### Done with Life
-
-<img class =".project_img" src="assets/images/about/done_with_life.png" alt="Done with Life">
 
 #### Bangkok Street Food Cookbook
 
-<img class =".project_img" src="assets/images/about/3.jpg" alt="Done with Life">
+<img class ="project_img" src="assets/images/about/3.jpg" alt="Done with Life">
 
 #### Travel Writing
 
