@@ -7,6 +7,14 @@ comments: false
 
 <img class ="about_img" src="assets/images/about/happy_madi.jpg" alt="Madi Taskett">
 
+
+Howdy! I’m Madi, and I want to help you with…
+Nomad issues
+Burnout
+TBD
+
+I love hiking in mountains, and making authentic food from around the world.
+
 ## Projects
 
 
