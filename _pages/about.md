@@ -6,6 +6,12 @@ comments: true
 ---
 
 
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Failed Past Projects</h2>
+                </div>
+            </div>
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrFKW4GHZUW1dkES?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
