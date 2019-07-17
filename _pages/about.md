@@ -24,7 +24,7 @@ When I'm not working, I love hiking in mountains, and making authentic food from
   </div>
   <div class="column">
     <center>
-        <img class ="project_img" src="assets/images/about/3.jpg" alt="bangkok Street Food">
+        <img class ="project_img" src="assets/images/about/BKKcookbookgif.gif" alt="bangkok Street Food">
         <h4>Bangkok Street Food</h4>
         <p>Authentic Recipes from the Greatest Street Food City in the World</p>
     </center>
@@ -42,7 +42,7 @@ When I'm not working, I love hiking in mountains, and making authentic food from
   
   <div class="column">
     <center>
-        <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Recipes">
+        <img class ="project_img" src="assets/images/about/molcajete.png" alt="Recipes">
         <h4>Recipes</h4>
         <p>My favorite authentic recipes from my world travels</p>
     <center>    
