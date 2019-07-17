@@ -8,15 +8,18 @@ comments: false
 <img class ="about_img" src="assets/images/about/happy_madi.jpg" alt="Madi Taskett">
 
 
-Howdy! I’m Madi, and I want to help you with…
-Nomad issues
-Burnout
-TBD
+Howdy! I’m Madi, and I make things that light me up inside. 
 
 I love hiking in mountains, and making authentic food from around the world.
 
 ## Projects
 
+<div id="projectcontainer">
+
+<div class="projectbox">
+    <img class="project_img" src="assets/images/about/happy_madi.jpg" class="projectimg">
+    Done with Life
+</div>
 
 <div id="projectbox">
     <div class="col-xs-12 col-lg-6">

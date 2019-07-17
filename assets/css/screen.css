@@ -729,6 +729,12 @@ img {
     border-radius: 50%;
 }
 
+.project_img {
+    height: 150px;
+    width: 150px;
+    border-radius: 5%;
+}
+
 .bottompagination span.navigation {
     display: block;
     font-size: 0.93rem;
