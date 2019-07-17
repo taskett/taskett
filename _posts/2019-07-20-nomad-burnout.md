@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Nomadism Contributes to Burnout and What to Do about It"
+title:  "How Nomadism Contributes to Burnout and What to do about It"
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
@@ -58,7 +58,7 @@ Alternating: When you ‘multitask’ and you think you’re doing two things at
 
 When we travel, traffic might come from the other side of the road, or we might be in a touristy area where hagglers are competing for our attention, or we could be somewhere unknown where we’re on extra guard for our safety. All of these factors drain us, and over time they add a friction to daily living that wears us down and depletes our capacity to function at optimal levels.
 
-
+![Nomad Burnout Cycle](/assets/images/nomad_burnout_cycle.png "Nomad Burnout Cycle")
 
 
 
