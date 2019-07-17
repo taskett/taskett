@@ -34,7 +34,7 @@ When I'm not working, I love hiking in mountains, and making authentic food from
 <div class="row" ahref>
   <div class="column">
     <center>
-        <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Travel Writing">
+        <img class ="project_img" src="assets/images/about/travel_writings.jpg" alt="Travel Writing">
         <h4>Travel Writing</h4>
         <p>Long-form writing about the cultures I interact with while abroad</p>
     </center>
