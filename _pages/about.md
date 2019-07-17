@@ -6,7 +6,8 @@ comments: true
 ---
 
 
-## Failed Past Projects
+### Previous Failures
+Why not share the failures as well as the successes?
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrFKW4GHZUW1dkES?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
