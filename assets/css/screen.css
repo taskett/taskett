@@ -921,6 +921,7 @@ iframe {
     float: left;
     width: 25%;
     padding: 10px;
+    border-radius: 5%;
     height: 300px; /* Should be removed. Only for demonstration */
   }
   

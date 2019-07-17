@@ -16,23 +16,24 @@ I love hiking in mountains, and making authentic food from around the world.
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
+    <h2>Done with Life</h2>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#ccc;">
-    <h2>Column 3</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#ddd;">
-    <h2>Column 4</h2>
+    <h2>Bangkok Street Food</h2>
     <p>Some text..</p>
   </div>
 </div>
-
+<div class="row">
+  <div class="column" style="background-color:#ccc;">
+    <h2>Travel Writing</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#ddd;">
+    <h2>Recipes</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 
 #### Done with Life
 
