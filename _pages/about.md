@@ -14,14 +14,6 @@ I love hiking in mountains, and making authentic food from around the world.
 
 ## Projects
 
-<div id="projectcontainer">
-
-<div class="projectbox">
-    <img class="project_img" src="assets/images/about/happy_madi.jpg" class="projectimg">
-    Done with Life
-</div>
-
-
 <div class="row">
   <div class="column" style="background-color:#aaa;">
     <h2>Column 1</h2>
