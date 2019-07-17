@@ -4,7 +4,7 @@ title: "Madi Taskett"
 description: "Maker | Nomad | Cookbook Author | Experimenting with Crazy Ideas"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: madisontaskett.com
 google_analytics: 'UA-115463751-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -17,9 +17,9 @@ authors:
     name: Madi
     display_name: Madi
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: mtaskett@gmail.com
+    web: https://madisontaskett.com
+    twitter: https://twitter.com/taskett
     description: "Owner of this site."
   
 # Plugins
