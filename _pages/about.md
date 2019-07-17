@@ -10,7 +10,7 @@ comments: false
 
 Howdy! I’m Madi, and I make things that light me up inside. 
 
-When I'm not working, I love hiking in mountains, and making authentic food from around the world.
+When I'm not working, I love hiking and making delicious food from around the world.
 
 ## Projects
 
@@ -29,9 +29,8 @@ When I'm not working, I love hiking in mountains, and making authentic food from
         <p>Authentic Recipes from the Greatest Street Food City in the World</p>
     </center>
   </div>
-</div>
-
-<div class="row" ahref>
+ </div>
+ <div class="row"> 
   <div class="column">
     <center>
         <img class ="project_img" src="assets/images/about/travel_writings.jpg" alt="Travel Writing">
@@ -39,12 +38,13 @@ When I'm not working, I love hiking in mountains, and making authentic food from
         <p>Long-form writing about the cultures I interact with while abroad</p>
     </center>
   </div>
-  
   <div class="column" a href="http://untamedeats.com/">
     <center>
         <img class ="project_img" src="assets/images/about/molcajete.png" alt="Recipes">
         <h4><a href="http://untamedeats.com/">Untamed Eats</a></h4>
-        <p>My favorite authentic recipes from my world travels</p>
-    <center>    
-  </div>
+        <p>Food blog: my favorite recipes from my world travels</p>
+    </center>
 </div>
+</div>
+
+

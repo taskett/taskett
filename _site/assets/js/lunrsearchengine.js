@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "About Madi",
-    "body": " Howdy! I’m Madi, and I make things that light me up inside. When I’m not working, I love hiking in mountains, and making authentic food from around the world. Projects:            Done with Life:     A burnout Calculator 🔥               Bangkok Street Food:     Authentic Recipes from the Greatest Street Food City in the World               Travel Writing:     Long-form writing about the cultures I interact with while abroad                Untamed Eats:     My favorite authentic recipes from my world travels      &lt;/div&gt;&lt;/div&gt;"
+    "body": " Howdy! I’m Madi, and I make things that light me up inside. When I’m not working, I love hiking and making delicious food from around the world. Projects:            Done with Life:     A burnout Calculator 🔥               Bangkok Street Food:     Authentic Recipes from the Greatest Street Food City in the World                Travel Writing:     Long-form writing about the cultures I interact with while abroad               Untamed Eats:     Food blog: my favorite recipes from my world travels   "
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",
