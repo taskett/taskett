@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "How Nomadism Contributes to Burnout and What to do about It"
-categories: [ Jekyll, tutorial ]
+categories: [ burnout, nomad ]
 tags: [red, yellow]
 image: assets/images/nomad_burnout_cycle.png
 description: "Long-term travel contributes to burnout. Here's why, and what you can do about it."
 featured: true
-hidden: true
+hidden: false
 ---
 
 Over the past year, I’ve seen a burnout epidemic among digital nomads. “I’ve been pretty tired for some time now”, “I was really burned out, but I’m better now, but not really”, “I can’t focus and I don’t know what to do about it”... the list goes on.
