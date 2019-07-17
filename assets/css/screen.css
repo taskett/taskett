@@ -923,7 +923,8 @@ iframe {
     padding: 10px;
     margin: 10px;
     height: 300px; /* Should be removed. Only for demonstration */
-    background-color:#ddd;
+    border-color: #333;
+    border: solid, 1px;
     border-radius: 5%;
   }
   
