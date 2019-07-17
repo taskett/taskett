@@ -30,6 +30,7 @@ When I'm not working, I love hiking in mountains, and making authentic food from
     </center>
   </div>
 </div>
+
 <div class="row">
   <div class="column">
     <center>
