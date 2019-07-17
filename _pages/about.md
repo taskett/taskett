@@ -16,22 +16,27 @@ When I'm not working, I love hiking in mountains, and making authentic food from
 
 <div class="row">
   <div class="column">
-    <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Done with Life">
-    <h4>Done with Life</h4>
-    <p>A burnout Calculator 🔥</p>
+    <center>
+        <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Done with Life">
+        <h4>Done with Life</h4>
+        <p>A burnout Calculator 🔥</p>
+    </center>
   </div>
   <div class="column">
-    <h3>Bangkok Street Food</h3>
+    <img class ="project_img" src="assets/images/about/3.jpg" alt="bangkok Street Food">
+    <h4>Bangkok Street Food</h4>
     <p>Some text..</p>
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <h3>Travel Writing</h3>
+    <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Travel Writing">
+    <h4>Travel Writing</h4>
     <p>Some text..</p>
   </div>
   <div class="column">
-    <h3>Recipes</h3>
+    <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Recipes">
+    <h4>Recipes</h4>
     <p>Some text..</p>
   </div>
 </div>
