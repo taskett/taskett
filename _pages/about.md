@@ -17,20 +17,20 @@ When I'm not working, I love hiking in mountains, and making authentic food from
 <div class="row">
   <div class="column">
     <h2>Done with Life</h2>
-    <p>Some text..</p>
+    <img class =".project_img" src="assets/images/about/done_with_life.png" alt="Done with Life">
   </div>
   <div class="column">
-    <h2>Bangkok Street Food</h2>
+    <h3>Bangkok Street Food</h3>
     <p>Some text..</p>
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <h2>Travel Writing</h2>
+    <h3>Travel Writing</h3>
     <p>Some text..</p>
   </div>
   <div class="column">
-    <h2>Recipes</h2>
+    <h3>Recipes</h3>
     <p>Some text..</p>
   </div>
 </div>
