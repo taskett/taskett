@@ -15,21 +15,21 @@ When I'm not working, I love hiking in mountains, and making authentic food from
 ## Projects
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="column">
     <h2>Done with Life</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div class="column">
     <h2>Bangkok Street Food</h2>
     <p>Some text..</p>
   </div>
 </div>
 <div class="row">
-  <div class="column" style="background-color:#ccc;">
+  <div class="column">
     <h2>Travel Writing</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#ddd;">
+  <div class="column">
     <h2>Recipes</h2>
     <p>Some text..</p>
   </div>
