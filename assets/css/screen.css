@@ -723,6 +723,12 @@ img {
     max-width: 100%;
 }
 
+.about_img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
 .bottompagination span.navigation {
     display: block;
     font-size: 0.93rem;
