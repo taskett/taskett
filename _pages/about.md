@@ -18,14 +18,14 @@ When I'm not working, I love hiking in mountains, and making authentic food from
   <div class="column">
     <center>
         <img class ="project_img" src="assets/images/about/done_with_life.png" alt="Done with Life">
-        <h4>Done with Life</h4>
+        <h4><a href="https://coda.io/d/Done-with-Life_dxSSFyEwo6G/_su5Em">Done with Life</a></h4>
         <p>A burnout Calculator 🔥</p>
     </center>
   </div>
   <div class="column">
     <center>
         <img class ="project_img" src="assets/images/about/BKKcookbookgif.gif" alt="bangkok Street Food">
-        <h4>Bangkok Street Food</h4>
+        <h4><a href="https://www.amazon.com/Bangkok-Street-Food-Authentic-Greatest-ebook/dp/B07JZJFQV4/">Bangkok Street Food</a></h4>
         <p>Authentic Recipes from the Greatest Street Food City in the World</p>
     </center>
   </div>
@@ -35,15 +35,15 @@ When I'm not working, I love hiking in mountains, and making authentic food from
   <div class="column">
     <center>
         <img class ="project_img" src="assets/images/about/travel_writings.jpg" alt="Travel Writing">
-        <h4>Travel Writing</h4>
+        <h4><a href="http://untamedeats.com/category/confessions/">Travel Writing</a></h4>
         <p>Long-form writing about the cultures I interact with while abroad</p>
     </center>
   </div>
   
-  <div class="column">
+  <div class="column" a href="http://untamedeats.com/">
     <center>
         <img class ="project_img" src="assets/images/about/molcajete.png" alt="Recipes">
-        <h4>Untamed Eats</h4>
+        <h4><a href="http://untamedeats.com/">Untamed Eats</a></h4>
         <p>My favorite authentic recipes from my world travels</p>
     <center>    
   </div>
