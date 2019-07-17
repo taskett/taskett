@@ -925,7 +925,7 @@ iframe {
     height: 300px; /* Should be removed. Only for demonstration */
     background-color: #fff;
     border-color: #333;
-    border: 1px;
+    border-style: solid;
     border-radius: 5%;
   }
   
