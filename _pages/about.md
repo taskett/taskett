@@ -5,6 +5,12 @@ permalink: /about
 comments: true
 ---
 
+<img class ="about_img" src="assets/images/about/happy_madi.jpg" alt="">
+
+## Projects
+
+
+
 
 ### Previous Failures
 Why not share the failures as well as the successes?
