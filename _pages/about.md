@@ -23,9 +23,11 @@ When I'm not working, I love hiking in mountains, and making authentic food from
     </center>
   </div>
   <div class="column">
-    <img class ="project_img" src="assets/images/about/3.jpg" alt="bangkok Street Food">
-    <h4>Bangkok Street Food</h4>
-    <p>Some text..</p>
+    <center>
+        <img class ="project_img" src="assets/images/about/3.jpg" alt="bangkok Street Food">
+        <h4>Bangkok Street Food</h4>
+        <p>Some text..</p>
+    </center>
   </div>
 </div>
 <div class="row">
@@ -44,15 +46,6 @@ When I'm not working, I love hiking in mountains, and making authentic food from
     <center>    
   </div>
 </div>
-
-
-#### Bangkok Street Food Cookbook
-
-<img class ="project_img" src="assets/images/about/3.jpg" alt="Done with Life">
-
-#### Travel Writing
-
-#### Recipes
 
 ### Previous Failures
 Why not share the failures as well as the successes?
