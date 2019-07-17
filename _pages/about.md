@@ -16,6 +16,7 @@ comments: true
 
 #### Bangkok Street Food Cookbook
 
+<img class ="about_img" src="assets/images/about/3.jpg" alt="Done with Life">
 
 ### Previous Failures
 Why not share the failures as well as the successes?
