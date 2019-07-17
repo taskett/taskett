@@ -5,6 +5,11 @@ permalink: /about
 comments: true
 ---
 
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrFKW4GHZUW1dkES?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+
+
 <center>
 <section id="mystory">
         <div class="container">
@@ -50,7 +55,7 @@ comments: true
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>April 2018</h4>
+                                    <h4>November 2018</h4>
                                     <h4 class="subheading"><a href="https://www.amazon.com/Bangkok-Street-Food-Authentic-Greatest-ebook/dp/B07JZJFQV4/ref=sr_1_3?ie=UTF8&qid=1540986148&sr=8-3&keywords=bangkok+street+food">Became a Cookbook Author</a></h4>
                                 </div>
                                 <div class="timeline-body">
