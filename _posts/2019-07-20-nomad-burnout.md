@@ -60,7 +60,7 @@ Another situation where we lose our ability to be mindful is whenever our attent
 
 * **Alternating:** When you ‘multitask’ and you think you’re doing two things at once, really your attention is just rapidly alternating from one thing to the other, but you think you are maintaining focus on both things. An example is talking to a friend while looking for a cafe while simultaneously avoiding huge cracks in the sidewalk somewhere like Canggu.
 
-When we travel, traffic might come from the other side of the road, or we might be in a touristy area where hagglers are competing for our attention, or we could be somewhere unknown where we’re on extra guard for our safety. All of these factors drain us, and over time **they add a friction to daily living that wears us down and depletes our capacity to function at optimal levels.**
+When we travel, traffic might come from the other side of the road, or we might be in a touristy area where hagglers are competing for our attention, or we could be somewhere unknown where we’re on extra guard for our safety. All of these factors drain us, and over time they add **a friction to daily living that wears us down and depletes our capacity to function at optimal levels.**
 
 ![Travel Chaos](/assets/images/jumbotron.jpg "Travel Chaos")
 
@@ -74,7 +74,7 @@ All of these factors combine to allow long-term travel to contribute to chronic 
 
 This isn’t to say that nomadism is inherently unhealthy or that you can’t travel without getting burned out. Plenty of people are able to sustain a nomadic lifestyle over the long term while also maintaining their sanity.
 
-So how do they do it? I have a few specific options below, but the overall theme is that **they add as much stability as possible to their living situations.**
+So how do they do it? I have a few specific options below, but the overall theme is that they **add as much stability as possible to their living situations.**
 
 #### They Slowmad.
 
