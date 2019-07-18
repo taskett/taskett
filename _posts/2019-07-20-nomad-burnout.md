@@ -14,12 +14,12 @@ Over the past year, I’ve seen a burnout epidemic among digital nomads.
 > “I was really burned out, but I’m better now, but not really”
 > “I can’t focus and I don’t know what to do about it”... the list goes on.
 
-I’m also a nomad who has been burned out for a long time. Since last November, I haven’t written a single article. My personal website was down for over 8 months and I just didn’t have the energy to fix it.
+I’m also a nomad who has been burned out for a long time. Since last November, I haven’t written a single article. My personal website was down for over 8 months and I didn’t have the energy to fix it until this week.
 
 Only now am I starting to function normally again. 
 
 
-So why now? I took a break from long-term travel and went home for a while.
+So why now? **I took a break from long-term travel and went home for a while.**
 
 Every day that I surround myself with the same boring, easy environment, my brain fog lifts a little more.
 
@@ -27,7 +27,7 @@ Turns out, there’s a neurological explanation for why going home helped me so 
 
 ---
 
-### HEADER HERE
+### How Serial Travel Affects Our Awareness
 
 According to the book, The Mind Illuminated, our conscious experience consists of two areas: attention and peripheral awareness.
 
