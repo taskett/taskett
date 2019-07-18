@@ -105,10 +105,13 @@ He then spoke about the political strife and danger growing up there, and how ev
 
 Living in a place that is safe, clean, and peaceful can allow your mind to relax, enabling you to focus on solving bigger issues and make your mark on this world.
 
+If you’re looking for a place to start, here’s a [map of the safest countries in the world.](https://drum-cussac.com/blog/world-risk-map/)
+
+
+![World Safety Map](/assets/images/world_safety_map2019.jpg "World Safety Map")
+
+
 #### They meditate
-
-If you’re looking for a place to start, here’s a map of the safest countries in the world. 
-
 
 
 
