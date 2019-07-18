@@ -78,16 +78,15 @@ So how do they do it? I have a few specific options below, but the overall theme
 
 #### They Slowmad
 
-
 Chances are, you are already aware of the concept of slowmading, where you stay in locations for 2-3 months or longer. Most nomads transition to this style of living after the first year or two of going nomadic.
 
-**The benefits:** Keeping a stable routine will give your brain a sense of stability and normalcy, and could not only help you recover from burnout quicker, but also help prevent travel-caused burnout in the first place.
+Keeping a stable routine will give your brain a sense of stability and normalcy, and could not only help you recover from burnout quicker, but also help prevent travel-caused burnout in the first place.
 
 #### They Visit Home or they Have a Home Base
 
 Many nomads visit home or they have a determined home base that they return to year after year.
 
-**The benefits:** Having a place where everything stays the same to come home to helps travel feel less overwhelming.
+Having a place where everything stays the same to come home to helps travel feel less overwhelming.
 
 In fact, I’m looking for a homebase myself. If you have a suggestion, reach out!
 
@@ -98,7 +97,7 @@ In fact, I’m looking for a homebase myself. If you have a suggestion, reach ou
 
 Some nomads don't have one select home base, but instead live in multiple places and visit the same 2+ places every year.
 
-**The benefits:** When you travel to the same places over and over, those places stop overwhelming you with new stimuli. You get used to them and they start to feel more like home than new destinations.
+When you travel to the same places over and over, those places stop overwhelming you with new stimuli. You get used to them and they start to feel more like home than new destinations.
 
 #### They Travel to places with low Friction of Daily Living
 
@@ -115,9 +114,9 @@ If you’re looking for a place to start, here’s a [map of the safest countrie
 ![World Safety Map](/assets/images/world_safety_map2019.jpg "World Safety Map")
 
 
-#### They meditate
+#### They Meditate
 
-
+Meditation trains you to utilize your peripheral awareness as well as your attention, allowing you to have a more holistic view of life's issues. This ability to selectively focus on what matters means that travel could overwhelm a skilled meditator less than someone who does not meditate.
 
 
 
