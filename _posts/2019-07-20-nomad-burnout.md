@@ -31,9 +31,9 @@ Turns out, there’s a neurological explanation for why going home helped me so 
 
 According to the book, [The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness-ebook/dp/B01INMZKAQ/), our conscious experience consists of two areas: **attention and peripheral awareness.**
 
-Attention hones in on specific things, either in our minds or outside of us, so we can analyze and interpret them.At the same time we can also be aware of what’s going on around us and in the background, which is our peripheral awareness. Peripheral awarness gives us a bigger context of issues so we can respond better to life's events. **Attention is under our direct control, but our peripheral awareness is not.**
+Attention hones in on specific things, either in our minds or outside of us, so we can analyze and interpret them. At the same time we can also be aware of what’s going on around us and in the background, which is our peripheral awareness. Peripheral awarness gives us a bigger context of issues so we can respond better to life's events. **Attention is under our direct control, but our peripheral awareness is not.**
 
-**When we’re in a healthy state of mind, attention and peripheral awareness work together** to make sure we’re always mindful of the situations we are in, and that we’re responding to them effectively.
+When we’re in a healthy state of mind, attention and peripheral awareness work together to make sure we’re always mindful of the situations we are in, and that we’re responding to them effectively.
 
 **However, when we travel for long periods of time, this balance can get thrown off** and can cause a negative feedback loop which traps us in ever increasing states of burnout.
 
