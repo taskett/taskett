@@ -70,7 +70,7 @@ Emotional stress caused by travel also causes the same thing to happen, as we ha
 
 All of these factors combine for nomadism to contribute to chronic burnout.
 
-### What You Can Do About It
+### How Successful Nomads Avoid Burnout
 
 This isn’t to say that nomadism is inherently unhealthy or that you can’t travel without getting burned out. **Plenty of people are able to sustain a nomadic lifestyle over the long term while also maintaining their sanity.**
 
