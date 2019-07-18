@@ -72,7 +72,7 @@ All of these factors combine for nomadism to contribute to chronic burnout.
 
 ### How Successful Nomads Avoid Burnout
 
-This isn’t to say that nomadism is inherently unhealthy or that you can’t travel without getting burned out. **Plenty of people are able to sustain a nomadic lifestyle over the long term while also maintaining their sanity.**
+This isn’t to say that nomadism is inherently unhealthy or that you can’t travel without getting burned out. Plenty of people are able to sustain a nomadic lifestyle over the long term while also maintaining their sanity.
 
 So how do they do it? I have a few specific options below, but the overall theme is that they **add as much stability as possible to their living situations.**
 
@@ -84,11 +84,9 @@ Keeping a stable routine will give your brain a sense of stability and normalcy,
 
 #### They Visit Home or they Have a Home Base
 
-Many nomads visit home or they have a determined home base that they return to year after year.
+Many nomads visit home or they have a determined home base that they return to year after year. When you return home, whether it's the one you grew up in or one you created for yourself, there's a familiarity that can put your brain on autopilot and free up space to focus again.
 
-Having a place where everything stays the same to come home to helps travel feel less overwhelming.
-
-In fact, I’m looking for a homebase myself. If you have a suggestion, reach out!
+In fact, I’m looking for a homebase myself. If you have a suggestion, [tweet me!](https://twitter.com/taskett)
 
 
 #### They Visit the Same Places Every Year
