@@ -14,7 +14,7 @@ Over the past year, I’ve seen a burnout epidemic among digital nomads.
 
 > “I was really burned out, but I’m better now, but not really”
 
-> “I can’t focus and I don’t know what to do about it”... the list goes on.
+> “I can’t focus and I don’t know what to do about it”
 
 I’m also a nomad who has been burned out for a long time. Since last November, I haven’t written a single article. My personal website was down for over 8 months and I didn’t have the energy to fix it until this week.
 
@@ -35,20 +35,17 @@ According to the book, [The Mind Illuminated](https://www.amazon.com/Mind-Illumi
 
 Attention is what we choose to hone in on. Whatever we pay attention to is our main focus. At the same time we can also be aware of what’s going on around us and in the background, which is our peripheral awareness.
 
-Attention’s main job is to hone in on specific things, either in our minds or outside of us, so we can analyze and interpret them. Peripheral awareness allows us to respond better by giving us more awareness of a bigger context. Attention is under our direct control, but our peripheral awareness is not.
+Attention’s main job is to hone in on specific things, either in our minds or outside of us, so we can analyze and interpret them. Peripheral awareness allows us to respond better by giving us more awareness of a bigger context. **Attention is under our direct control, but our peripheral awareness is not.**
 
 When we’re in a healthy state of mind, attention and peripheral awareness work together to make sure we’re always mindful of the situations we are in, and that we’re responding to them effectively.
 
 However, when we travel for long periods of time, this balance can get thrown off and can cause a negative feedback loop which traps us in ever increasing states of burnout.
 
-This is based on a concept called awareness deficit disorder. 
+This is based on a concept called **awareness deficit disorder.** 
 
 When we travel to foreign locales, our peripheral awareness gets bombarded by new sights, smells, languages, weather conditions, geographical points, and more. Even a simple trip to the grocery store introduces us to thousands of new stimuli, many of which we may have never encountered before in our lives.
 
 Remember from earlier that while we can control what we pay attention to, we don’t have direct control over what appears in our peripheral awareness. This causes us to overuse our attention because it is what’s under our direct control. We try to take everything in, to process and make sense of it all, and it overwhelms us. 
-
-
-
 
 This can cause a nasty spiral, where we become less overall aware of situations because we overuse our attention, but to compensate, we use our attention even more, thus utilizing our peripheral awareness less, diminishing our overall awareness of situations, and so on and so forth. This leads us to not be able to take in as much overall information, to process it like we normally would, and leads to an inability to see things from a calm holistic state. Basically, when you try to pay attention to too many stimuli on a constant basis over a long period of time, it breaks your brain.
 
