@@ -85,15 +85,20 @@ Chances are, you are already aware of the concept of slowmading, where you stay 
 
 #### They Visit Home or they Have a Home Base
 
-Many nomads (give examples)
+Just because they don't advertise it, doesn't mean that most nomads don't visit home regularly or have a determined home base that they return to year after year.
+
+**The benefits:** Having a place where everything stays the same to come home to helps travel feel less overwhelming.
 
 In fact, I’m looking for a homebase myself. If you have a suggestion, reach out!
 
-**The benefits:**
 
 #### They Visit the Same Places Every Year
 
-The benefits: When you travel to the same places over and over, those places stop overwhelming you with new stimuli. You get used to them and they start to feel more like home than new destinations.
+
+
+Some nomads don't have one select home base, but instead travel to the same three or four places every year.
+
+**The benefits:** When you travel to the same places over and over, those places stop overwhelming you with new stimuli. You get used to them and they start to feel more like home than new destinations.
 
 #### They Travel to places with low Friction of Daily Living
 
