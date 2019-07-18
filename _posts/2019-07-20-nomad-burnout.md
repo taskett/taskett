@@ -27,8 +27,6 @@ Every day that I surround myself with the same boring, easy environment, my brai
 
 Turns out, there’s a neurological explanation for why going home helped me so much, and I’ll cover it here.
 
----
-
 ### How Serial Travel Affects Our Awareness
 
 According to the book, [The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness-ebook/dp/B01INMZKAQ/), our conscious experience consists of two areas: **attention and peripheral awareness.**
@@ -48,6 +46,8 @@ When we travel to foreign locales, our peripheral awareness gets bombarded by ne
 Remember from earlier that while we can control what we pay attention to, we don’t have direct control over what appears in our peripheral awareness. This causes us to overuse our attention because it is what’s under our direct control. We try to take everything in, to process and make sense of it all, and it overwhelms us. 
 
 This can cause a nasty spiral, where we become less overall aware of situations because we overuse our attention, but to compensate, we use our attention even more, thus utilizing our peripheral awareness less, diminishing our overall awareness of situations, and so on and so forth. This leads us to not be able to take in as much overall information, to process it like we normally would, and leads to an inability to see things from a calm holistic state. Basically, when you try to pay attention to too many stimuli on a constant basis over a long period of time, it breaks your brain.
+
+![Travel Chaos](/assets/images/jumbotron.jpg "Travel Chaos")
 
 
 Another situation where we lose our ability to be mindful is whenever our attention shifts rapidly back and forth between different objects. It takes considerable brain power to attend to a bunch of different stimuli at once. 
