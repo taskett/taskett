@@ -6,8 +6,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-115463751-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'madisontaskett'
+mailchimp-list: 'https://madisontaskett.us12.list-manage.com/subscribe/post?u=177c80c3c455952821c66ef83&amp;id=42987a1f4b'
 include: ["_pages"]
 permalink: /:title/
 
