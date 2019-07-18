@@ -31,7 +31,7 @@ Turns out, there’s a neurological explanation for why going home helped me so 
 
 ### How Serial Travel Affects Our Awareness
 
-According to the book, The Mind Illuminated, our conscious experience consists of two areas: attention and peripheral awareness.
+According to the book, [The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness-ebook/dp/B01INMZKAQ/), our conscious experience consists of two areas: **attention and peripheral awareness.**
 
 Attention is what we choose to hone in on. Whatever we pay attention to is our main focus. At the same time we can also be aware of what’s going on around us and in the background, which is our peripheral awareness.
 
