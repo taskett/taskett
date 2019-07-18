@@ -94,7 +94,7 @@ In fact, I’m looking for a homebase myself. If you have a suggestion, reach ou
 
 #### They Visit the Same Places Every Year
 
-
+![@levelsio tweet](/assets/images/levelsio_tweet.png "@levelsio tweet")
 
 Some nomads don't have one select home base, but instead travel to the same three or four places every year.
 
