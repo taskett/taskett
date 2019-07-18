@@ -45,7 +45,7 @@ When we travel to foreign places, our peripheral awareness gets bombarded by new
 
 Remember from earlier that while we can control what we pay attention to, we don’t have direct control over what appears in our peripheral awareness. This causes us to overuse our attention because it is what’s under our direct control. We try to take everything in, to process and make sense of it all, and it overwhelms us. 
 
-This can cause a nasty spiral, where we become less overall aware of situations because we overuse our attention, but to compensate, we use our attention even more, thus utilizing our peripheral awareness less, diminishing our overall awareness of situations, and so on and so forth. This leads us to not be able to take in as much overall information, to process it like we normally would, and leads to an inability to see things from a calm holistic state. **Basically, when we try to pay attention to too many stimuli on a constant basis over a long period of time, it breaks our brains.**
+This can cause a downward spiral where we become less aware of situations because we overuse our attention, but to compensate, we use our attention even more, thus utilizing our peripheral awareness less, diminishing situational awareness even further. This leads to an inability to see things from a calm holistic state. **Basically, when we try to pay attention to too many stimuli on a constant basis over a long period of time, it breaks our brains.**
 
 
 ![Nomad Burnout Cycle](/assets/images/nomad_burnout_cycle.png "Nomad Burnout Cycle")
