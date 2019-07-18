@@ -56,7 +56,7 @@ Another situation where we lose our ability to be mindful is whenever our attent
 
 * **Scanning:** is when our mind scans our inner and outer surroundings for something of interest. While traveling, our mind is constantly scanning our surroundings for something new and exciting or foreign dangers we should avoid.
 
-* **Getting captured:** this is when an outer or inner distraction, from an ambulance passing to a body spasm to a strange thought, disrupts our attention. This could happen from the joyful discovery that the garbage trucks in Taipei play classical music, to almost getting hit by an errant motorized merchant on the sidewalk.
+* **Getting captured:** this is when an outer or inner distraction, from an ambulance passing to a body spasm to a strange thought, disrupts our attention. This could happen from the joyful discovery that the garbage trucks in Taipei play classical music, to almost getting hit by an errant motorcycle driving on the sidewalk.
 
 * **Alternating:** When you ‘multitask’ and you think you’re doing two things at once, really your attention is just rapidly alternating from one thing to the other, but you think you are maintaining focus on both things. An example is talking to a friend while looking for a cafe while simultaneously avoiding huge cracks in the sidewalk somewhere like Canggu.
 
@@ -68,7 +68,7 @@ When we travel, traffic might come from the other side of the road, or we might 
 
 Emotional stress caused by travel also causes the same thing to happen, as we have so many internal worries and concerns that we lose the ability to step back and see the bigger picture.
 
-All of these factors combine to allow long-term travel to contribute to chronic burnout.
+All of these factors combine for nomadism to contribute to chronic burnout.
 
 ### What You Can Do About It
 
@@ -81,8 +81,7 @@ So how do they do it? I have a few specific options below, but the overall theme
 
 Chances are, you are already aware of the concept of slowmading, where you stay in locations for 2-3 months or longer. Most nomads transition to this style of living after the first year or two of going nomadic.
 
-The benefits: Keeping a stable routine will give your brain a sense of stability and normalcy, and could help you recover from burnout quicker.
-(give examples)
+**The benefits:** Keeping a stable routine will give your brain a sense of stability and normalcy, and could help you recover from burnout quicker.
 
 #### They Visit Home or they Have a Home Base
 
@@ -90,7 +89,7 @@ Many nomads (give examples)
 
 In fact, I’m looking for a homebase myself. If you have a suggestion, reach out!
 
-The benefits:
+**The benefits:**
 
 #### They Visit the Same Places Every Year
 
