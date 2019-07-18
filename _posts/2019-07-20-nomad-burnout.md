@@ -39,7 +39,9 @@ Attention is what we choose to hone in on, and is our main focus. It's main job 
 
 This is based on a concept called **awareness deficit disorder.** 
 
-When we travel to foreign locales, our peripheral awareness gets bombarded by new sights, smells, languages, weather conditions, geographical points, and more. Even a simple trip to the grocery store introduces us to thousands of new stimuli, many of which we may have never encountered before in our lives.
+When we travel to foreign places, our peripheral awareness gets bombarded by new sights, smells, languages, weather conditions, geographical points, and more. 
+
+>Even a simple trip to the grocery store introduces us to thousands of new stimuli, many of which we may have never encountered before in our lives.
 
 Remember from earlier that while we can control what we pay attention to, we don’t have direct control over what appears in our peripheral awareness. This causes us to overuse our attention because it is what’s under our direct control. We try to take everything in, to process and make sense of it all, and it overwhelms us. 
 
