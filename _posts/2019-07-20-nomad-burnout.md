@@ -86,7 +86,7 @@ Keeping a stable routine will give your brain a sense of stability and normalcy,
 
 Many nomads visit home or they have a determined home base that they return to year after year. When you return home, whether it's the one you grew up in or one you created for yourself, there's a familiarity that can put your brain on autopilot and free up space to focus again.
 
-In fact, I’m looking for a homebase myself. If you have a suggestion, [tweet me!](https://twitter.com/taskett)
+In fact, I’m looking for a home base myself. If you have suggestions, [tweet me!](https://twitter.com/taskett)
 
 
 #### They Visit the Same Places Every Year
