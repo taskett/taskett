@@ -72,7 +72,7 @@ All of these factors combine to allow long-term travel to contribute to chronic 
 
 ### What You Can Do About It
 
-This isn’t to say that nomadism is inherently unhealthy or that you can’t travel without getting burned out. Plenty of people are able to sustain a nomadic lifestyle over the long term while also maintaining their sanity.
+This isn’t to say that nomadism is inherently unhealthy or that you can’t travel without getting burned out. **Plenty of people are able to sustain a nomadic lifestyle over the long term while also maintaining their sanity.**
 
 So how do they do it? I have a few specific options below, but the overall theme is that they **add as much stability as possible to their living situations.**
 
@@ -98,7 +98,10 @@ The benefits: When you travel to the same places over and over, those places sto
 
 #### They Travel to places with low Friction of Daily Living
 
-Auth0 (my employer)’s CEO was hosting an AMA when an Argentinian employee asked him most about what he missed about his home country of Argentina. He paused and then said, “While I will always love my country, my honest answer is that I do not miss it.” He then spoke about the political strife and danger growing up there, and how even after things calmed down, there was this friction to daily living that took up a lot of his brain space. When he moved to the Northwest United States, all of a sudden that friction went away and he was able to succeed at Microsoft and, later on, was able to found Auth0. 
+Auth0 (my employer)’s CEO was hosting an AMA when an Argentinian employee asked him most about what he missed about his home country of Argentina. He paused and then said,
+> “While I will always love my country, my honest answer is that I do not miss it. There was a friction to daily living that hindered my ability to use my brain to its fullest capacity.” 
+
+He then spoke about the political strife and danger growing up there, and how even after things calmed down, there was this friction to daily living that took up a lot of his brain space. When he moved to the Northwest United States, all of a sudden that friction went away and he was able to succeed at Microsoft and, later on, was able to found Auth0. 
 
 Living in a place that is safe, clean, and peaceful can allow your mind to relax, enabling you to focus on solving bigger issues and make your mark on this world.
 
