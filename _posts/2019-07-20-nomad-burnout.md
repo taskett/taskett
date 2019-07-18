@@ -11,7 +11,9 @@ hidden: false
 
 Over the past year, I’ve seen a burnout epidemic among digital nomads. 
 > “I’ve been pretty tired for some time now”
+
 > “I was really burned out, but I’m better now, but not really”
+
 > “I can’t focus and I don’t know what to do about it”... the list goes on.
 
 I’m also a nomad who has been burned out for a long time. Since last November, I haven’t written a single article. My personal website was down for over 8 months and I didn’t have the energy to fix it until this week.
