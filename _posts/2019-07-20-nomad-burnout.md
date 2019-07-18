@@ -47,20 +47,22 @@ Remember from earlier that while we can control what we pay attention to, we don
 
 This can cause a nasty spiral, where we become less overall aware of situations because we overuse our attention, but to compensate, we use our attention even more, thus utilizing our peripheral awareness less, diminishing our overall awareness of situations, and so on and so forth. This leads us to not be able to take in as much overall information, to process it like we normally would, and leads to an inability to see things from a calm holistic state. Basically, when you try to pay attention to too many stimuli on a constant basis over a long period of time, it breaks your brain.
 
-![Travel Chaos](/assets/images/jumbotron.jpg "Travel Chaos")
 
+![Nomad Burnout Cycle](/assets/images/nomad_burnout_cycle.png "Nomad Burnout Cycle")
 
 Another situation where we lose our ability to be mindful is whenever our attention shifts rapidly back and forth between different objects. It takes considerable brain power to attend to a bunch of different stimuli at once. 
 
-There are three kinds of these distractions:
+#### There are three kinds of these distractions:
 
-Scanning: is when our mind scans our inner and outer surroundings for something of interest. While traveling, our mind is constantly scanning our surroundings for something new and exciting or foreign dangers we should avoid.
-Getting captured: this is when an outer or inner distraction, from an ambulance passing to a body spasm to a strange thought, disrupts our attention. This could happen from the joyful discovery that the garbage trucks in Taipei play classical music, to almost getting hit by an errant motorized merchant on the sidewalk.
-Alternating: When you ‘multitask’ and you think you’re doing two things at once, really your attention is just rapidly alternating from one thing to the other, but you think you are maintaining focus on both things. An example is talking to a friend while looking for a cafe while simultaneously avoiding huge cracks in the sidewalk somewhere like Canggu.
+* Scanning: is when our mind scans our inner and outer surroundings for something of interest. While traveling, our mind is constantly scanning our surroundings for something new and exciting or foreign dangers we should avoid.
+
+* Getting captured: this is when an outer or inner distraction, from an ambulance passing to a body spasm to a strange thought, disrupts our attention. This could happen from the joyful discovery that the garbage trucks in Taipei play classical music, to almost getting hit by an errant motorized merchant on the sidewalk.
+
+* Alternating: When you ‘multitask’ and you think you’re doing two things at once, really your attention is just rapidly alternating from one thing to the other, but you think you are maintaining focus on both things. An example is talking to a friend while looking for a cafe while simultaneously avoiding huge cracks in the sidewalk somewhere like Canggu.
 
 When we travel, traffic might come from the other side of the road, or we might be in a touristy area where hagglers are competing for our attention, or we could be somewhere unknown where we’re on extra guard for our safety. All of these factors drain us, and over time they add a friction to daily living that wears us down and depletes our capacity to function at optimal levels.
 
-![Nomad Burnout Cycle](/assets/images/nomad_burnout_cycle.png "Nomad Burnout Cycle")
+![Travel Chaos](/assets/images/jumbotron.jpg "Travel Chaos")
 
 
 
