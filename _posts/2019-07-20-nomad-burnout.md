@@ -82,7 +82,7 @@ Keeping a stable routine will give one's brain a sense of stability and normalcy
 
 #### They Visit Home or they Have a Home Base
 
-Many nomads visit home or they have a determined home base that they return to year after year. When you return home, whether it's the one you grew up in or one you created for yourself, there's a familiarity that can put your brain on autopilot and free up space to focus again.
+Many nomads visit home or they have a determined home base that they return to year after year. Returning home, whether it's a childhood home in or one that's self-created, creates a familiarity that can put one's brain on autopilot and free up space to focus again.
 
 In fact, I’m looking for a home base myself. If you have suggestions, [tweet me!](https://twitter.com/taskett)
 
@@ -93,14 +93,14 @@ In fact, I’m looking for a home base myself. If you have suggestions, [tweet m
 
 Some nomads don't have one select home base, but instead live in multiple places and visit the same 2+ places every year.
 
-When you travel to the same places over and over, those places stop overwhelming you with new stimuli. You get used to them and they start to feel more like home than new destinations.
+Traveling to the same places over and over stops overwhelming the brain with new stimuli. These places start to feel more like home than new destinations.
 
 #### They Travel to places with low Friction of Daily Living
 
-Auth0 (my employer)’s CEO was hosting an AMA when an Argentinian employee asked him most about what he missed about his home country of Argentina. He paused and then said,
-> “While I will always love my country, my honest answer is that I do not miss it. There was a friction to daily living that hindered my ability to use my brain to its fullest capacity.” 
+Auth0 (my employer)’s CEO was hosting an AMA when an Argentinian employee asked him what he missed most about his home country of Argentina. He paused and then said,
+> “While I will always love my country, my honest answer is that I do not miss it. There was a friction to daily living that hindered my ability to use my brain to its fullest capacity.”
 
-He then spoke about the political strife and danger growing up in Buenos Aires, and how even after things calmed down, there was a difficulty to doing anything that took up a lot of his brain space. When he moved to the USA that friction went away, and he was able to succeed at Microsoft and, later on, was able to found Auth0. (Note: He left Buenos Aires many years ago and it has since become a much more lovely place to live.)
+He then spoke about the political strife and danger growing up in Buenos Aires, and how even after things calmed down, there was a difficulty to doing basic daily tasks in that country that took up a lot of his brain space. When he moved to the USA that friction went away, and he was able to succeed at Microsoft and, later on, was able to found Auth0. (Note: He left Buenos Aires many years ago and it has since become a much more lovely place to live.)
 
 Living in a place that is safe, clean, and peaceful can allow your mind to relax, enabling you to focus on solving bigger issues and make your mark on this world.
 
