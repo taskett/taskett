@@ -115,11 +115,9 @@ If you’re looking for a country to relax in, here’s a [map of the safest cou
 Remember how it's possible to control attention but not peripheral awareness? Meditation trains the brain to utilize peripheral awareness as well as attention! This allows a more holistic view of life's issues. This ability to selectively focus on what matters and tune out distractions means that travel could overwhelm a skilled meditator less than someone who does not meditate.
 
 
+While there are many factors that lead to burnout, a constantly-changing nomadic lifestyle is a larger contributor. Going home, slowing down one's travel, meditation, and choosing familiar travel spots can all help prevent or ameliorate burnout.
 
-SUMMARY PARAGRAPH
+As for me, I’m back home and don't see myself hopping back on the road for at least another few months. Every day that I surround myself with the same boring, easy environment, my brain fog lifts a little more. I'm trading the excitement of seeing the world and meeting fascinating new people for the adventure of exploring my own mind and picking projects that spark a fire in my soul.
 
 
 
-As for me, I’m living the boring life for a while, to free my mind up to focus on more pressing problems- making things that help makers.
-
-Every day that I surround myself with the same boring, easy environment, my brain fog lifts a little more.
