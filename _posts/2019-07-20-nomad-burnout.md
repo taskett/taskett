@@ -12,18 +12,16 @@ hidden: false
 Over the past year, I’ve seen a burnout epidemic among digital nomads. 
 > “I’ve been pretty tired for some time now”
 
-> “I was really burned out, but I’m better now! Well, not really”
+> “I've been going through this cycle of being burned out, getting a bit better, and then falling back into it again.”
 
 > “I can’t focus and I don’t know what to do about it”
 
-I’m also a nomad who has been burned out for a long time. Since last November, I haven’t written a single article. My personal website was down for over 8 months and I didn’t have the energy to fix it until this week.
+I’m also a nomad who has been struggling with burnout for the past year. Since last November, I haven’t written a single article. In fact, this website was down for over 8 months and I didn’t have the energy to fix it until this week.
 
 Only now am I starting to function normally again. 
 
 
-So why now? **I took a break from long-term travel and went home for a while.**
-
-Every day that I surround myself with the same boring, easy environment, my brain fog lifts a little more.
+So how do I have the energy to fix my site and start writing again? **I took a break from long-term travel and went home for a while.**
 
 Turns out, there’s a neurological explanation for why going home helped me so much, and I’ll cover it here.
 
@@ -31,7 +29,7 @@ Turns out, there’s a neurological explanation for why going home helped me so 
 
 According to the book, [The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness-ebook/dp/B01INMZKAQ/), our conscious experience consists of two areas: **attention and peripheral awareness.**
 
-Attention hones in on specific things, either in our minds or outside of us, so we can analyze and interpret them. At the same time we can also be aware of what’s going on around us and in the background, which is our peripheral awareness. Peripheral awarness gives us a bigger context of issues so we can respond better to life's events. **Attention is under our direct control, but our peripheral awareness is not.**
+Attention hones in on specific things, either in our minds or outside of us, so we can analyze and interpret them. At the same time we can also be aware of what’s going on around us and in the background, which is our peripheral awareness. Peripheral awareness gives us a bigger context of issues so we can respond better to life's events. **Attention is under our direct control, but our peripheral awareness is not.**
 
 When we’re in a healthy state of mind, attention and peripheral awareness work together to make sure we’re always mindful of the situations we are in, and that we’re responding to them effectively.
 
@@ -54,7 +52,7 @@ Another situation where we lose our ability to be mindful is whenever our attent
 
 #### There are three kinds of these distractions:
 
-* **Scanning:** is when our mind scans our inner and outer surroundings for something of interest. While traveling, our mind is constantly scanning our surroundings for something new and exciting or foreign dangers we should avoid.
+* **Scanning:** is when our mind scans our inner and outer surroundings for something of interest. While traveling, our mind is constantly scanning our surroundings for something new and exciting, or for foreign dangers we should avoid.
 
 * **Getting captured:** this is when an outer or inner distraction, from an ambulance passing to a body spasm to a strange thought, disrupts our attention. This could happen from the joyful discovery that the garbage trucks in Taipei play classical music, to almost getting hit by an errant motorcycle driving on the sidewalk.
 
@@ -68,13 +66,13 @@ When we travel, traffic might come from the other side of the road, or we might 
 
 Emotional stress caused by travel also causes the same thing to happen, as we have so many internal worries and concerns that we lose the ability to step back and see the bigger picture.
 
-All of these factors combine for nomadism to contribute to chronic burnout.
+When one takes into account all of these factors, it's obvious that nomadism can contribute to chronic burnout.
 
 ### How Successful Nomads Avoid Burnout
 
-This isn’t to say that nomadism is inherently unhealthy or that you can’t travel without getting burned out. Plenty of people are able to sustain a nomadic lifestyle over the long term while also maintaining their sanity.
+A nomadic lifestyle doesn't have to be unhealthy. Plenty of people are able to sustain a nomadic lifestyle over the long term while also maintaining their sanity.
 
-So how do they do it? I have a few specific options below, but the overall theme is that they **add as much stability as possible to their living situations.**
+So how do they do it? They **add as much stability as possible to their living situations.**
 
 #### They Slowmad
 
@@ -124,3 +122,4 @@ SUMMARY PARAGRAPH
 
 As for me, I’m living the boring life for a while, to free my mind up to focus on more pressing problems- making things that help makers.
 
+Every day that I surround myself with the same boring, easy environment, my brain fog lifts a little more.
