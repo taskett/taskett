@@ -112,7 +112,7 @@ If you’re looking for a country to relax in, here’s a [map of the safest cou
 
 #### They Meditate
 
-Remember how it's possible to control attention but not peripheral awareness? Meditation trains the brain to utilize peripheral awareness as well as attention! This allows a more holistic view of life's issues. This ability to selectively focus on what matters means that travel could overwhelm a skilled meditator less than someone who does not meditate.
+Remember how it's possible to control attention but not peripheral awareness? Meditation trains the brain to utilize peripheral awareness as well as attention! This allows a more holistic view of life's issues. This ability to selectively focus on what matters and tune out distractions means that travel could overwhelm a skilled meditator less than someone who does not meditate.
 
 
 
