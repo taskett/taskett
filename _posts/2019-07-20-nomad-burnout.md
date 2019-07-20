@@ -119,5 +119,4 @@ While there are many factors that lead to burnout, a constantly-changing nomadic
 
 As for me, I’m back home and don't see myself hopping back on the road for at least another few months. Every day that I surround myself with the same boring, easy environment, my brain fog lifts a little more. I'm trading the excitement of seeing the world and meeting fascinating new people for the adventure of exploring my own mind and picking projects that spark a fire in my soul.
 
-
-
+It's a worthy trade-off.
