@@ -76,9 +76,9 @@ So how do they do it? They **add as much stability as possible to their living s
 
 #### They Slowmad
 
-Chances are, you are already aware of the concept of slowmading, where you stay in locations for 2-3 months or longer. Most nomads transition to this style of living after the first year or two of going nomadic.
+You may be familiar with the concept of slowmading, where one stays in locations for 2-3 months or longer. Most nomads transition to this style of living after the first year or two of going nomadic.
 
-Keeping a stable routine will give your brain a sense of stability and normalcy, and could not only help you recover from burnout quicker, but also help prevent travel-caused burnout in the first place.
+Keeping a stable routine will give one's brain a sense of stability and normalcy, and could help one recover from burnout quicker, and also help prevent travel-caused burnout in the first place.
 
 #### They Visit Home or they Have a Home Base
 
