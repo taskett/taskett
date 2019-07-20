@@ -102,9 +102,9 @@ Auth0 (my employer)’s CEO was hosting an AMA when an Argentinian employee aske
 
 He then spoke about the political strife and danger growing up in Buenos Aires, and how even after things calmed down, there was a difficulty to doing basic daily tasks in that country that took up a lot of his brain space. When he moved to the USA that friction went away, and he was able to succeed at Microsoft and, later on, was able to found Auth0. (Note: He left Buenos Aires many years ago and it has since become a much more lovely place to live.)
 
-Living in a place that is safe, clean, and peaceful can allow your mind to relax, enabling you to focus on solving bigger issues and make your mark on this world.
+Living in a place that is safe, clean, and peaceful allows the mind to relax, enabling it to focus on solving bigger issues and make a mark on this world.
 
-If you’re looking for a place to start, here’s a [map of the safest countries in the world.](https://drum-cussac.com/blog/world-risk-map/)
+If you’re looking for a country to relax in, here’s a [map of the safest countries in the world.](https://drum-cussac.com/blog/world-risk-map/)
 
 
 ![World Safety Map](/assets/images/world_safety_map2019.jpg "World Safety Map")
@@ -112,7 +112,7 @@ If you’re looking for a place to start, here’s a [map of the safest countrie
 
 #### They Meditate
 
-Meditation trains you to utilize your peripheral awareness as well as your attention, allowing you to have a more holistic view of life's issues. This ability to selectively focus on what matters means that travel could overwhelm a skilled meditator less than someone who does not meditate.
+Remember how it's possible to control attention but not peripheral awareness? Meditation trains the brain to utilize peripheral awareness as well as attention! This allows a more holistic view of life's issues. This ability to selectively focus on what matters means that travel could overwhelm a skilled meditator less than someone who does not meditate.
 
 
 
