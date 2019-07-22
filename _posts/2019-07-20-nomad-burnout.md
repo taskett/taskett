@@ -114,6 +114,9 @@ If you’re looking for a country to relax in, here’s a [map of the safest cou
 
 Remember how it's possible to control attention but not peripheral awareness? Meditation trains the brain to utilize peripheral awareness as well as attention! This allows a more holistic view of life's issues. This ability to selectively focus on what matters and tune out distractions means that travel could overwhelm a skilled meditator less than someone who does not meditate.
 
+#### They Keep a Stable Routine
+![Hannah on Twitter](/assets/images/herlifeinpixels.png "Hannah on Twitter")
+Hannah is right. Keeping a rythm or routine that you can keep the same, no matter where you are, is a great way of helping your brain know what to expect day in and day out, no matter what else is going on in your life. 
 
 ### Burnout Solved
 
