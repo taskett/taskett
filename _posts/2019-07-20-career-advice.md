@@ -59,7 +59,7 @@ I grabbed a bite to eat the other week with one of my favorite coworkers, [Shafi
 * And make deadlines. If you want to come up with an idea, make sure you have a due date. I'll give myself a due date for a problem that I have _no idea_ how to solve, and every single time, my brain comes up with a solution by the deadline.
 
 
-In the two weeks since our chat, I've started implementing some of Shafiq's advice and I've **already seen an improvement** in how effective I am at my job (and I'm enjoying my job more too!)
+In the two weeks since our chat, I've started implementing some of Shafiq's advice and I've **already seen an improvement** in how effective I am at my job (and I'm enjoying my work more too!)
 
 Thank you Shafiq for your great advice! You can find [Shafiq here.](https://www.linkedin.com/in/shafiqshivji/ )
 
