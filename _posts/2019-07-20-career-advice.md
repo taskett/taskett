@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My Successful Founder Friend dishes his best Career Advice"
-categories: [ burnout, nomad ]
-tags: [nomad burnout, long-term travel]
+categories: [ entrepreneurship, career advice ]
+tags: [founder advice]
 image: assets/images/success.jpg
 description: "I don’t know a single person who made it to the top without being pulled up by someone else."
 featured: false
