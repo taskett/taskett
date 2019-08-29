@@ -67,6 +67,8 @@ But I had a serious problem and I wasn’t taking responsibility for getting hel
 
 #### What I didn't see was that I'd built up an identity around experiencing the entirety of life that, in the end, cost me many of the things I cared about most in life.
 
+Things like peace of mind, the person I loved, creating from the heart, being in the moment, experiencing wonder. Time anxiety brought me all those things, then just as quickly took them all away.
+
 Now I’ve eaten the entire Earth, and there’s nothing solid for me to stand upon any longer. There is nothing left to eat but a speck of stardust, somewhere just outside my reach; close enough to reach for but far enough away that I will never, ever reach it.
 
 But I still stretch out my arm as far as I can. Maybe, just maybe… 
