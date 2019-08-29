@@ -65,9 +65,9 @@ I wish I could tell you that the story ends there, that he taught me how to let 
 
 But I had a serious problem and I wasn’t taking responsibility for getting help for it. I kept working in my spare time. I denied that I needed help. Time anxiety was a key part of my identity. Letting go of it meant relearning how I define my worth, potentially losing my friendship network, and possibly letting my life pass me by.
 
-#### What I didn't see was that I'd built up an identity around experiencing the entirety of life that, in the end, cost me many of the things I cared about most in life.
+#### What I didn't see was that I'd built up an identity around experiencing the entirety of life that, in the end, cost me many of the things I cared about most.
 
-Things like peace of mind, the person I loved, creating from the heart, being in the moment, experiencing wonder. Time anxiety brought me all those things, then just as quickly took them all away.
+I lost my peace of mind, the person I loved, the ability to create from the heart, being in the moment, experiencing wonder. Time anxiety brought me all those things, then just as quickly took them all away.
 
 **Now I’ve eaten the entire Earth, and there’s nothing solid for me to stand upon any longer.** There is nothing left to consume but a speck of stardust, somewhere just outside my reach; close enough to reach for but far enough away that I will never, ever reach it.
 
