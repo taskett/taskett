@@ -19,7 +19,7 @@ hidden: false
 
 [Anne Laure](https://nesslabs.com/time-anxiety) and [Pieter Levels](https://levels.io/enjoy-your-tea-and-a-cookie/) recently wrote about their experiences and interpretations of a concept called time anxiety.
 
-My definition of time anxiety: the time in your life when you realize that you are mortal and life is short, and you respond by filling your time with as much meaning as possible. 
+**My definition of time anxiety is: the time in your life when you realize that you are mortal and life is short, and you respond by filling your time with as much meaning as possible.**
 
 Everyone’s definition of ‘meaning’ is personal and varies from person to person. *I responded to time anxiety by becoming a maker.* What started as a beautiful exploration of creativity and community crossed the line into toxicity and depression. Here’s my story.
 
