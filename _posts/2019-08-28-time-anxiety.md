@@ -3,7 +3,7 @@ layout: post
 title:  "Time Anxiety as a Maker: A Warning"
 categories: [ mental health, burnout ]
 tags: [time anxiety]
-image: assets/images/success.jpg
+image: assets/images/time_anxiety.jpg
 description: 
 featured: false
 hidden: false
