@@ -71,7 +71,7 @@ But I had a real problem and I wasn’t taking responsibility for getting help. 
 
 I lost my peace of mind, the person I loved, the ability to create from the heart, being in the moment, experiencing wonder. Time anxiety brought me all those things, then just as quickly took them all away.
 
-**Now, as he warned me, I’ve eaten the entire Earth, and there’s nothing solid for me to stand upon any longer.** There is nothing left to consume but a speck of stardust, somewhere just outside my reach; close enough to grasp for but far enough away that I will never, ever be able to touch it.
+**Now, as he warned me, I’ve eaten the entire Earth, and there’s nothing solid for me to stand upon any longer.** There is nothing left to consume but a speck of stardust, somewhere just outside my reach; close enough to grasp at, but far enough away that I will never, ever be able to touch it.
 
 #### But I still stretch out my arm as far as I can. Maybe, _just maybe…_ 
 
@@ -88,4 +88,4 @@ I lost my peace of mind, the person I loved, the ability to create from the hear
 
 
 
-_PS: I stopped traveling and started seeing a therapist regularly and things are getting better. I still feel the urge to make every single day. But I’ve managed to act on that urge only about 20% of the time, versus 95% of the time before making these changes. My goal is to stop creating completely until I know I’m creating things from my heart (and this psot is coming right from my core of me.) I still feel like I’m losing my identity and my community, but fuck it._
+_PS: I stopped traveling and started seeing a therapist regularly and things are getting better. I still feel the urge to make every single day. But I’ve managed to act on that urge only about 20% of the time, versus 95% of the time before making these changes. My goal is to stop creating completely until I know I’m creating things from my heart (and this post fits that criteria) I still feel like I’m losing my identity and my community, but I will continue to lose much more if I don't stop now._
