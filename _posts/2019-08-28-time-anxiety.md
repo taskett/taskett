@@ -69,12 +69,16 @@ But I had a serious problem and I wasn’t taking responsibility for getting hel
 
 Things like peace of mind, the person I loved, creating from the heart, being in the moment, experiencing wonder. Time anxiety brought me all those things, then just as quickly took them all away.
 
-Now I’ve eaten the entire Earth, and there’s nothing solid for me to stand upon any longer. There is nothing left to eat but a speck of stardust, somewhere just outside my reach; close enough to reach for but far enough away that I will never, ever reach it.
+**Now I’ve eaten the entire Earth, and there’s nothing solid for me to stand upon any longer.** There is nothing left to consume but a speck of stardust, somewhere just outside my reach; close enough to reach for but far enough away that I will never, ever reach it.
 
-But I still stretch out my arm as far as I can. Maybe, just maybe… 
+#### But I still stretch out my arm as far as I can. Maybe, just maybe… 
 
 
 ---
+
+
+
+
 
 
 PS- I stopped traveling and started seeing a therapist regularly and things are starting to get better. I still feel the urge to make, every single day. But I’ve managed to act on that urge only about 10% of the time, versus 90% of the time before making these changes. I want to stop creating completely until I know I’m creating things from my heart. I still feel like I’m losing my identity and my community, but fuck it.
