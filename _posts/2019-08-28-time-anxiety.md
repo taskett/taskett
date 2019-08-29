@@ -29,7 +29,7 @@ It began with a heartfelt compliment from a best friend.
 
 I had just poured my heart into a fun conference speech called, “Your Content Sucks.” To my surprise, it was the most attended event at the conference, even beating out Techstars founder Brad Feld. That talk instantly made me known in the Boulder startup scene and for the next week, strangers would stop me to thank me for such an insightful talk.
 
-> “You know what my favorite thing about you is?” my friend said after my speech. “You eat the Earth. You want to experience everything in this world while you’re here, and it’s beautiful.”
+> **“You know what my favorite thing about you is?” my friend said after my speech. “You eat the Earth. You want to experience everything in this world while you’re here, and it’s beautiful.”**
 
 Suddenly, I felt like my life had the meaning I’d been searching for. I’d been saving 50% of my income for some time, so I quit my job and started launching products.
 
@@ -49,7 +49,7 @@ I started gaining a community around the work I was creating. I found myself sur
 
 #### “If you take a break now,” the time anxiety would say, “then you’ll not only be a failure, but you’ll also become useless to your community. Stop making, and they stop caring.”
 
-As I ticked ‘self-expression’ off of my life experience box, the urge to make money sprang to the surface. My community was using the things they made to make a living. Surely I should be able to do so too!
+As I ticked ‘self-expression’ off of my life experience box, the urge to make money sprang to the surface. My community was using the things they made to make a living. I should try too!
 
 I started focusing on money instead of creating from my soul. My community grew more as I attempted ambitious projects that looked promising. **But many of these projects never launched because slowly, the magic drained out of everything I did.** The maker drug had stopped getting me high so I used more than ever, staying awake working until 3 or 4 in the morning every day, dreading falling asleep because I knew that when I woke up, it would be with a pounding heart, a ceaseless feeling that I was never creating enough, worried sick that I would never live a life to my full potential.
 
@@ -63,7 +63,7 @@ So he puts me on metaphorical Nicotene patches for productivity. We start experi
 
 I wish I could tell you that the story ends there, that he taught me how to let go of my time anxiety and we lived happily ever after.
 
-But I had a serious problem and I wasn’t taking responsibility for getting help for it. I kept working in my spare time. I denied that I needed help. Time anxiety was a key part of my identity. Letting go of it meant relearning how I define my worth. Letting go of it meant potentially losing my friendship network. Letting go of it meant possibly letting my life pass me by.
+But I had a serious problem and I wasn’t taking responsibility for getting help for it. I kept working in my spare time. I denied that I needed help. Time anxiety was a key part of my identity. Letting go of it meant relearning how I define my worth, potentially losing my friendship network, and possibly letting my life pass me by.
 
 #### What I didn't see was that I'd built up an identity around experiencing the entirety of life that, in the end, cost me many of the things I cared about most in life.
 
