@@ -61,7 +61,7 @@ I’ve tried to relax and it feels like going on withdrawals from a drug. I shak
 
 So he puts me on metaphorical Nicotene patches for productivity. We start experimenting with ways I can feel productive without actually using my brain. During this time, I play so much Pokemon that it’s slightly embarrassing. He makes me take cuddle breaks in between work meetings. We go for long walks around the park each day after work and lay on the grass, staring at the sky, doing nothing.
 
-I wish I could tell you that the story ends there, that he taught me how to let go of my time anxiety and we lived happily ever after.
+I wish I could tell you that the story ends there, that he taught me how to let go of unceasing quest for perfection and we lived happily ever after.
 
 But I had a serious problem and I wasn’t taking responsibility for getting help for it. I kept working in my spare time. I denied that I needed help. Time anxiety was a key part of my identity. Letting go of it meant relearning how I define my worth, potentially losing my friendship network, and possibly letting my life pass me by.
 
