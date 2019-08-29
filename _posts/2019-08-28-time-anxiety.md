@@ -33,7 +33,7 @@ I had just poured my heart into a fun conference speech called, “Your Content 
 
 Suddenly, I felt like my life had the meaning I’d been searching for. I’d been saving 50% of my income for some time, so I quit my job and started launching products.
 
-*Making was like a drug.* At first, I would get high making really quirky things that would bring a smile to my face merely knowing that they existed in the world (dog deodorant, anyone?) And, to my amazement, dog deodorant actually sold!
+*Making was like a drug.* At first, I would get high making really quirky joyous things (dog deodorant, anyone?) And, to my amazement, dog deodorant actually sold!
 
 #### I think that when you are making things that come from a place of unbridled heart and soul, others will feel that and respond to it. It had been the same way with my speech.
 
