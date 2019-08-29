@@ -45,7 +45,7 @@ At first, my making was solely about self-expression. I would work 16 hour days 
 
 _Note: this time anxiety affected almost everything in my life, from the need to constantly travel the world, to placing unhealthy expectations on myself and those around me, to being a maker._
 
-I started gaining a community around the work I was creating. I found myself surrounded by fascinating, driven, curious individuals who were making things that mattered. It was wondrous and terrifying all at once. 
+I started gaining a community around the work I was creating. I found myself surrounded by fascinating, driven, curious individuals who were creating things that mattered. It was wondrous and terrifying all at once. 
 
 #### “If you take a break now,” the time anxiety would say, “then you’ll not only be a failure, but you’ll also become useless to your community. Stop making, and they stop caring.”
 
@@ -53,13 +53,13 @@ As I ticked ‘self-expression’ off of my life experience box, the urge to mak
 
 I started focusing on money instead of creating from my soul. My community grew more as I attempted ambitious projects that looked promising. **But many of these projects never launched because slowly, the magic drained out of everything I did.** The maker drug had stopped getting me high so I used more than ever, staying awake working until 3 or 4 in the morning every day, dreading falling asleep because I knew that when I woke up, it would be with a pounding heart, a ceaseless feeling that I was never creating enough, worried sick that I would never live a life to my full potential.
 
-Around this time, I met my then-boyfriend, a man who knew how to take breaks and relax. He clearly saw that I was hurting myself by constantly producing even when the joy in doing so had long disappeared, and that if I kept this up, I would not just eat a bit of the Earth but consume the whole damn planet until there was nothing solid left for me to stabilize myself upon.
+Around this time, I met my then-boyfriend, a man who knew how to take breaks and relax. He saw that I was hurting myself by constantly producing even when the joy in doing so had long disappeared, and that if I kept this up, I would not just eat a bit of the Earth but consume the whole damn planet until there was nothing solid left for me to stabilize myself on.
 
 #### Thus we find ourselves in that bedroom in Oaxaca in March. 
 
 I’ve tried to relax and it feels like going on withdrawals from a drug. I shake, I cry, I get angry. I can’t do it. 
 
-So he puts me on metaphorical Nicotene patches for productivity. We start experimenting with ways I can feel productive without actually using my brain. During this time, I play so much Pokemon that it’s slightly embarrassing. He makes me take cuddle breaks in between work meetings. We go for long walks around the park each day after work and lay on the grass, staring at the sky, doing nothing.
+So he puts me on metaphorical methadone for productivity. We start experimenting with ways I can feel productive without actually using my brain. During this time, I play so much Pokemon that it’s slightly embarrassing. He makes me take cuddle breaks in between work meetings. We go for long walks around the park each day after work and lay on the grass, staring at the sky, doing nothing.
 
 I wish I could tell you that the story ends there, that he taught me how to let go of my unceasing quest for perfection and we lived happily ever after.
 
