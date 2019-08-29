@@ -86,4 +86,4 @@ I lost my peace of mind, the person I loved, the ability to create from the hear
 
 
 
-PS- I stopped traveling and started seeing a therapist regularly and things are getting better. I still feel the urge to make every single day. But I’ve managed to act on that urge only about 10% of the time, versus 90% of the time before making these changes. My goal to stop creating completely until I know I’m creating things from my heart. I still feel like I’m losing my identity and my community, but fuck it.
+_PS: I stopped traveling and started seeing a therapist regularly and things are getting better. I still feel the urge to make every single day. But I’ve managed to act on that urge only about 10% of the time, versus 90% of the time before making these changes. My goal to stop creating completely until I know I’m creating things from my heart. I still feel like I’m losing my identity and my community, but fuck it._
