@@ -23,11 +23,11 @@ hidden: false
 
 Everyone’s definition of ‘meaning’ is personal and varies from person to person. *I responded to time anxiety by becoming a maker.* What started as a beautiful exploration of creativity and community crossed the line into toxicity and depression. Here’s my story.
 
---
+---
 
 It began with a heartfelt compliment from a best friend.
 
-I had just poured my heart into a fun conference speech called, “Your Content Sucks.” To my surprise, it was the most attended event at the conference, even beating out Techstars founder Brad Feld. That talk instantly made me known in the Boulder Startup scene and for the next week, strangers would stop me to thank me for teaching them how to finally do content marketing effectively.
+I had just poured my heart into a fun conference speech called, “Your Content Sucks.” To my surprise, it was the most attended event at the conference, even beating out Techstars founder Brad Feld. That talk instantly made me known in the Boulder startup scene and for the next week, strangers would stop me to thank me for such an insightful talk.
 
 > “You know what my favorite thing about you is?” my friend said after my speech. “You eat the Earth. You want to experience everything in this world while you’re here, and it’s beautiful.”
 
