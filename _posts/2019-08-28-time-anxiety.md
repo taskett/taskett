@@ -25,7 +25,7 @@ Everyone’s definition of ‘meaning’ is personal and varies from person to p
 
 ---
 
-It began with a heartfelt compliment from a best friend.
+It began with a compliment from a best friend.
 
 I had just poured my heart into a fun conference speech called, “Your Content Sucks.” To my surprise, it was the most attended event at the conference, even beating out Techstars founder Brad Feld. That talk instantly made me known in the Boulder startup scene and for the next week, strangers would stop me to thank me for such an insightful talk.
 
