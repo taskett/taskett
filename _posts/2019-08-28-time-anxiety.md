@@ -29,7 +29,7 @@ It began with a heartfelt compliment from a best friend.
 
 I had just poured my heart into a fun conference speech called, “Your Content Sucks.” To my surprise, it was the most attended event at the conference, even beating out Techstars founder Brad Feld. That talk instantly made me known in the Boulder startup scene and for the next week, strangers would stop me to thank me for such an insightful talk.
 
-> **“You know what my favorite thing about you is?” my friend said after my speech. “You eat the Earth. You want to experience everything in this world while you’re here, and it’s beautiful.”**
+**_“You know what my favorite thing about you is?” my friend said after my speech. “You eat the Earth. You want to experience everything in this world while you’re here, and it’s beautiful.”_**
 
 Suddenly, I felt like my life had the meaning I’d been searching for. I’d been saving 50% of my income for some time, so I quit my job and started launching products.
 
