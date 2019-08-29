@@ -41,7 +41,7 @@ But time anxiety was not satisfied. Soon the high wore off and I wanted to eat M
 
 At first, my making was solely about self-expression. I would work 16 hour days for a month straight to make a full-photographed street food cookbook on the streets of Bangkok. I would make street food maps and write extensively about my travels.
 
-**The highs I got from producing without end kept the creeping burnout under the surface.** If I stopped and stood still for long enough, the darkness would creep up, and that nagging thought that, “I won’t be enough if I stop creating” would come back urgently.
+**The highs I got from producing without end kept the creeping burnout under the surface.** If I stopped and stood still for long enough, the darkness would creep up, and that nagging thought that, “I won’t be enough if I stop creating” would come racing back.
 
 _Note: this time anxiety affected almost everything in my life, from the need to constantly travel the world, to placing unhealthy expectations on myself and those around me, to being a maker._
 
