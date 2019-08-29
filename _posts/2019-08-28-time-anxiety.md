@@ -65,7 +65,7 @@ So he puts me on metaphorical methadone for productivity. We start experimenting
 
 I wish I could tell you that the story ends there, that he taught me how to let go of my unceasing quest for perfection and we lived happily ever after.
 
-But I had a serious problem and I wasn’t taking responsibility for getting help. I kept working in my spare time. I denied that anything was seriously wrong with me. Time anxiety was a key part of my identity. Letting go of it meant relearning how I define my worth, potentially losing my friendship network, and possibly letting my life pass me by.
+But I had a real problem and I wasn’t taking responsibility for getting help. I kept working in my spare time. I denied that anything was seriously wrong with me. Time anxiety was a key part of my identity. Letting go of it meant relearning how I define my worth, potentially losing my friendship network, and possibly letting my life pass me by.
 
 #### What I didn't see was that I'd built up an identity around experiencing the entirety of life that, in the end, cost me many of the things I cared about most.
 
