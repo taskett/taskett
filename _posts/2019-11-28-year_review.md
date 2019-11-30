@@ -91,7 +91,7 @@ In 2020, I want to cut out anything that isn’t magic. I only want to hang out 
 ## Set solid, Consistent Routine/Habits
 
 
-*Confession:* I’ve never stuck to a real routine. I don’t think my brain likes organization or consistency. But I also think it’s an ‘Uncle Bob’ symptom that has led to a lot of energy being spent unnecessarily. A routine = all the healthy things in life are automated so that you don’t have to waste extra time trying to get your shit together, because it’s all on auto pilot.
+*Confession:* I’ve never stuck to a real routine. I don’t think my brain likes organization or consistency. But I also think it’s an ‘Uncle Bob’ symptom that has led to a lot of energy being spent unnecessarily. **A routine = all the healthy things in life are automated so that you don’t have to waste extra time trying to get your shit together, because it’s all on auto pilot.**
 
 At least, that’s what I hope, because as I just told you, I’ve never had a real routine before that I’ve stuck to!
 
