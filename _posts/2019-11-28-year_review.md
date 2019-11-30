@@ -15,11 +15,11 @@ My biggest fear at the beginning of 2019 was becoming irrelevant. But sometimes 
 
 ## WTF WAS 2019
 
-You know your Uncle Bob, who got a heart attack at age 58 and he was completely shocked? He kept repeating, “I’m so young, how could this happen to me?” and you just wanted to shake him and yell, “You eat fried chicken for breakfast and you haven’t exercised in 20 years! It’s obvious!”
+You know your Uncle Bob, who got a heart attack at age 58 and he was completely shocked? **He kept repeating, “I’m so young, how could this happen to me?” and you just wanted to shake him and yell, “You eat fried chicken for breakfast and you haven’t exercised in 20 years! It’s obvious!”**
 
 (Okay, you European readers, I get it- you all live balanced lifestyles and your uncle is healthy as a horse. Just stick with me here.)
 
-In this situation, I am Uncle Bob. I started the year with a long list of things I wanted to ship, projects I wanted to collaborate on, places I wanted to visit… and what happened instead was I fell into a depression, only shipped [one thing all year](https://donewithlife.carrd.co/), had to stop traveling and return home because I was such a fucking mess, and went through the hardest breakup of my life.
+In this situation, **I am Uncle Bob.** I started the year with a long list of things I wanted to ship, projects I wanted to collaborate on, places I wanted to visit… and what happened instead was I fell into a depression, only shipped [one thing all year](https://donewithlife.carrd.co/), had to stop traveling and return home because I was such a fucking mess, and went through the hardest breakup of my life.
 
 But, just like Uncle Bob, these things didn’t suddenly just fall out of the sky. There were a lot of long-term issues that got me to such a low point.
 
@@ -39,7 +39,7 @@ But going to the meetings every week has been SO freaking good for me. And the t
 
 Earlier this year, I told the story of how I couldn’t lay on my bed and do nothing for even half an hour without bursting into tears, it was so painful to not be productive.
 
-And a couple months after starting therapy, something terrifying happened. *I was going on a sunny hike in the mountains on a lovely day, all alone when suddenly it felt like a bunch of dementors had surrounded me. This darkness swallowed me whole and I felt like I would never be happy again, and even worse, I realized that this awful feeling had been within me for as long as I could remember.* That night I didn’t sleep at all, I just layed alone, doing nothing, feeling the pain and despair consume me, and I worried that I was just fucked for life. Is it possible to overcome something that’s always there been there since you were a little kid?
+And a couple months after starting therapy, something terrifying happened. **I was going on a sunny hike in the mountains on a lovely day, all alone when suddenly it felt like a bunch of dementors had surrounded me. This darkness swallowed me whole and I felt like I would never be happy again, and even worse, I realized that this awful feeling had been within me for as long as I could remember.** That night I didn’t sleep at all, I just layed alone, doing nothing, feeling the pain and despair consume me, and I worried that I was just fucked for life. Is it possible to overcome something that’s always there been there since you were a little kid?
 
 _“This is a really good sign,”_ my therapist told me. _“Most people never get to this point. I was there too once. Just let yourself feel it. I promise, with time, it will get way better.”_
 
@@ -70,7 +70,7 @@ Irrelevancy used to be my biggest fear. But now that I’m here and completely i
 I have some big things I really want to accomplish next year. But right now I’m not in the place to produce again, and I don’t know when I’ll give myself the green light to make things in the future. 
 
 
-So with that in mind, I only have two definite _‘will happen’_ goals for 2020. They are:
+So with that in mind, **I only have two definite _‘will happen’_ goals for 2020. They are:**
 
 * Follow the Magic (and cut out anything that isn’t magical)
 * Set solid, Consistent Routine/Habits
@@ -104,15 +104,15 @@ This is my ideal routine. I don’t expect to actually nail all of these things,
     * Start Weightlifting
     * Yoga weekly
 * Eating healthy
-* It’s simple: focus on quality first
-* I want to eat a tomato that tastes like the color red. I want to focus on high-quality food. 
+    * It’s simple: focus on quality first
+    * I want to eat a tomato that tastes like the color red. I want to focus on high-quality food. 
 * Grooming routine
-* Skincare routine, hair care routine, flattering clothes
-* I want to leave the house feeling like a boss bitch every day (but in a natural, approachable way)
+    * Skincare routine, hair care routine, flattering clothes
+    * I want to leave the house feeling like a boss bitch every day (but in a natural, approachable way)
 * Create for 1hr/day (anything I want!)
 * Consistent bed time (this one is SO hard for me)
 * Find ‘my people’ here in Seattle
-* Makers, dreamers, adventurers, people of Integrity, visionaries
+    * Makers, dreamers, adventurers, people of Integrity, visionaries
 * Plan ahead weekly and daily
 
 I’m going to add in my routine one step at a time. For example, right now my current focus is furnishing my house. Before that, it was finding a place to live. Next up is taking a vacation. One focus at a time, so that I have plenty of space to sit still with myself.
