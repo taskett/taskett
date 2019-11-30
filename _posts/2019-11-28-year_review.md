@@ -23,19 +23,7 @@ In this situation, **I am Uncle Bob.** I started the year with a long list of th
 
 But, just like Uncle Bob, these things didn’t suddenly just fall out of the sky. There were a lot of long-term issues that got me to such a low point.
 
-### I have codependency.
-
-What is codependency? My favorite description of it is, _Codependency is when you’re unable to tolerate the discomfort of others._
-
-This usually stems from a dysfunctional childhood, and leads to a bunch of different shitty behaviors.
-
-I’ve known for a few years that I’ve had this, and I’ve done some personal work on it, but I didn’t know how deeply it affected every area of my life until my breakup in June. While it really sucked, it was a big wakeup call for me, and I started regularly seeing a therapist. 
-
-Last month, I also started attending regular group meetings for codependency. There’s something about attending a 12-step meeting that scared the hell out of me. I thought only severely broken people did that sort of thing, and if I went, it was a public admission of, ‘Hi, I’m broken!’ My first meeting, I was shaking and trying not to cry. It took all my willpower to return a second week, where there was a new guy attending his first meeting. Guess what? He was shaking and trying not to cry, just like me the week before.
-
-But going to the meetings every week has been SO freaking good for me. And the thing is, I’m not even convinced that it’s the actual content of the meetings that help so much. It’s the fact that, no matter what else is going on in my life, no matter how busy I am, no matter how I feel, I make my mental health my #1 priority and I demonstrate that every Tuesday at 7pm, rain or shine.
-
-### I have overwhelming anxiety
+### I struggle with anxiety
 
 Earlier this year, I told the story of how I couldn’t lay on my bed and do nothing for even half an hour without bursting into tears, it was so painful to not be productive.
 
@@ -60,6 +48,18 @@ I have my own furniture and a lovely house that’s just mine, and I’m simulta
 Now that I'm not distracting myself with constant travel, I find myself in more and more hours of stillness, and while it still is scary and awful, it’s nowhere near as bad as it was.
 
 For that same reason, I’ve taken a really long break from any side hustles or related projects. *I’ll be able to create from a healthy place sometime in the future (same for traveling), but for now, working on those things is a way to medicate myself so I don’t have to work through the issues that got me to such a bad place to begin with.*
+
+### I have codependency.
+
+What is codependency? My favorite description of it is, _Codependency is when you’re unable to tolerate the discomfort of others._
+
+This usually stems from a dysfunctional childhood, and leads to a bunch of different shitty behaviors.
+
+I’ve known for a few years that I’ve had this, and I’ve done some personal work on it, but I didn’t know how deeply it affected every area of my life until my breakup in June. While it really sucked, it was a big wakeup call for me, and I started regularly seeing a therapist. 
+
+Last month, I also started attending regular group meetings for codependency. There’s something about attending a 12-step meeting that scared the hell out of me. I thought only severely broken people did that sort of thing, and if I went, it was a public admission of, ‘Hi, I’m broken!’ My first meeting, I was shaking and trying not to cry. It took all my willpower to return a second week, where there was a new guy attending his first meeting. Guess what? He was shaking and trying not to cry, just like me the week before.
+
+But going to the meetings every week has been SO freaking good for me. And the thing is, I’m not even convinced that it’s the actual content of the meetings that help so much. It’s the fact that, no matter what else is going on in my life, no matter how busy I am, no matter how I feel, I make my mental health my #1 priority and I demonstrate that every Tuesday at 7pm, rain or shine.
 
 So that was 2019. Almost all of it sucked, a lot of it was a result of habits and coping mechanisms I’ve built up since I was a little kid, and it led to me not creating anything and basically becoming irrelevant.
 
