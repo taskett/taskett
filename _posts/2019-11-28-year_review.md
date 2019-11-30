@@ -47,7 +47,7 @@ I have my own furniture and a lovely house that’s just mine, and I’m simulta
 
 Now that I'm not distracting myself with constant travel, I find myself in more and more hours of stillness, and while it still is scary and awful, it’s nowhere near as bad as it was.
 
-For that same reason, I’ve taken a really long break from any side hustles or related projects. **I’ll be able to create from a healthy place sometime in the future (same for traveling), but for now, working on those things is a way to medicate myself** so I don’t have to work through the issues that got me to such a bad place to begin with.
+For that same reason, I’ve taken a really long break from any side hustles or related projects. **I’ll be able to create from a healthy place sometime in the future (same for traveling), but for now, working on those things is a way to medicate myself** so I can avoid working through the issues that got me to such a bad place to begin with.
 
 ### I struggle with codependency.
 
@@ -57,7 +57,7 @@ This usually stems from a dysfunctional childhood, and leads to a bunch of diffe
 
 I’ve known for a few years that I’ve had this, and I’ve done some personal work on it, but I didn’t know how deeply it affected every area of my life until my breakup in June. While it really sucked, it was a big wakeup call for me, and I started regularly seeing a therapist. 
 
-Last month, I also started attending regular group meetings for codependency. There’s something about attending a 12-step meeting that scared the hell out of me. I thought only severely broken people did that sort of thing, and if I went, it was a public admission of, ‘Hi, I’m broken!’ My first meeting, I was shaking and trying not to cry. It took all my willpower to return a second week, where there was a new guy attending his first meeting. Guess what? He was shaking and trying not to cry, just like me the week before.
+Last month, I also started attending regular group meetings for codependency. There’s something about attending a 12-step meeting that scared the hell out of me. I thought only severely broken people did that sort of thing, and if I went, it was a public admission of, ‘Hi, I’m irreparably not good enough for life!’ My first meeting, I was shaking and trying not to cry. It took all my willpower to return a second week, where there was a new guy attending his first meeting. Guess what? He was shaking and trying not to cry, just like me the week before.
 
 But going to the meetings every week has been SO freaking good for me. And the thing is, I’m not even convinced that it’s the actual content of the meetings that help so much. It’s the fact that, no matter what else is going on in my life, no matter how busy I am, no matter how I feel, I make my mental health my #1 priority and I demonstrate that every Tuesday at 7pm, rain or shine.
 
@@ -86,7 +86,9 @@ Magic is quality. Magic is that feeling of wonder, of goosebumps, excitement, of
 Magic is something that just lights you up. It’s hard to define, but you undoubtedly know it when you feel it.
 
 In 2020, I want to cut out anything that isn’t magic. I only want to hang out with people who feel a little bit like magic. I only want to buy or consume things that are magic. I only want to work on side projects that feel like magic. I only want to move my career in a direction that feels wondrous.
-Set solid, Consistent Routine/Habits
+
+
+## Set solid, Consistent Routine/Habits
 
 
 *Confession:* I’ve never stuck to a real routine. I don’t think my brain likes organization or consistency. But I also think it’s an ‘Uncle Bob’ symptom that has led to a lot of energy being spent unnecessarily. A routine = all the healthy things in life are automated so that you don’t have to waste extra time trying to get your shit together, because it’s all on auto pilot.
