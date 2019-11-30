@@ -49,7 +49,7 @@ Now that I'm not distracting myself with constant travel, I find myself in more 
 
 For that same reason, I’ve taken a really long break from any side hustles or related projects. **I’ll be able to create from a healthy place sometime in the future (same for traveling), but for now, working on those things is a way to medicate myself so I don’t have to work through the issues that got me to such a bad place to begin with.**
 
-### I have codependency.
+### I struggle with codependency.
 
 What is codependency? My favorite description of it is, _Codependency is when you’re unable to tolerate the discomfort of others._
 
