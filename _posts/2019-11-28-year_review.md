@@ -25,7 +25,7 @@ But, just like Uncle Bob, these things didn’t suddenly just fall out of the sk
 
 ### I struggle with anxiety
 
-Earlier this year, I told the story of how I couldn’t lay on my bed and do nothing for even half an hour without [bursting into tears](https://madisontaskett.com/time-anxiety/), it was so painful to not be productive.
+Earlier this year, I told the story of how I couldn’t lay on my bed and do nothing for even half an hour without [bursting into tears](https://madisontaskett.com/time-anxiety/), because it was so painful for me to not be productive.
 
 And a couple months after starting therapy, something terrifying happened. **I was going on a sunny hike in the mountains on a lovely day, all alone when suddenly it felt like a bunch of dementors had surrounded me. This darkness swallowed me whole and I felt like I would never be happy again, and even worse, I realized that this awful feeling had been within me for as long as I could remember.** That night I didn’t sleep at all, I just layed alone, doing nothing, feeling the pain and despair consume me, and I worried that I was just fucked for life. Is it possible to overcome something that’s always there been there since you were a little kid?
 
@@ -33,7 +33,7 @@ _“This is a really good sign,”_ my therapist told me. _“Most people never 
 
 So I took her advice. I stopped the nomad life (for now) and got a home base in Seattle.
 
-> “How do you like Seattle?” my Grandma
+> “How do you like Seattle?” - my grandma
 
 > “I like it. I got a lease!”
 
