@@ -47,13 +47,13 @@ I have my own furniture and a lovely house that’s just mine, and I’m simulta
 
 Now that I'm not distracting myself with constant travel, I find myself in more and more hours of stillness, and while it still is scary and awful, it’s nowhere near as bad as it was.
 
-For that same reason, I’ve taken a really long break from any side hustles or related projects. **I’ll be able to create from a healthy place sometime in the future (same for traveling), but for now, working on those things is a way to medicate myself so I don’t have to work through the issues that got me to such a bad place to begin with.**
+For that same reason, I’ve taken a really long break from any side hustles or related projects. **I’ll be able to create from a healthy place sometime in the future (same for traveling), but for now, working on those things is a way to medicate myself** so I don’t have to work through the issues that got me to such a bad place to begin with.
 
 ### I struggle with codependency.
 
-What is codependency? My favorite description of it is, _Codependency is when you’re unable to tolerate the discomfort of others._
+What is codependency? My favorite description of it is, _**Codependency is when you’re unable to tolerate the discomfort of others.**_ 
 
-This usually stems from a dysfunctional childhood, and leads to a bunch of different [shitty behaviors](http://coda.org/index.cfm/meeting-materials1/patterns-of-recovery/).
+This usually stems from a dysfunctional childhood, and leads to a bunch of different [shitty behaviors](http://coda.org/index.cfm/meeting-materials1/patterns-of-recovery/). LOTS of people struggle with it, so I suggest looking through the shitty behaviors (of denial, low self esteem, compliance, and avoidance) and seeing if a good portion apply to you. You may be surprised.
 
 I’ve known for a few years that I’ve had this, and I’ve done some personal work on it, but I didn’t know how deeply it affected every area of my life until my breakup in June. While it really sucked, it was a big wakeup call for me, and I started regularly seeing a therapist. 
 
