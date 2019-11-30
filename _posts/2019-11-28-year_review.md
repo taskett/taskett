@@ -57,9 +57,9 @@ So I took her advice. I stopped the nomad life (for now) and got a home base in 
 
 I have my own furniture and a lovely house that’s just mine, and I’m simultaneously thrilled about it and super scared. I can’t just run away to a tropical island and avoid my issues as easily as I could have before.
 
-Already I’ve had time alone in my new home to have some hours of stillness, and while it still is scary and awful, it’s nowhere near as bad as it was.
+Now that I'm not distracting myself with constant travel, I find myself in more and more hours of stillness, and while it still is scary and awful, it’s nowhere near as bad as it was.
 
-For that same reason, I’ve taken a really long break from any side hustles or related projects. I’ll be able to create from a healthy place sometime in the future (same for traveling), but for now, working on those things is a way to medicate myself so I don’t have to be alone with my mind and work through the issues that got me to such a bad place to begin with.
+For that same reason, I’ve taken a really long break from any side hustles or related projects. *I’ll be able to create from a healthy place sometime in the future (same for traveling), but for now, working on those things is a way to medicate myself so I don’t have to work through the issues that got me to such a bad place to begin with.*
 
 So that was 2019. Almost all of it sucked, a lot of it was a result of habits and coping mechanisms I’ve built up since I was a little kid, and it led to me not creating anything and basically becoming irrelevant.
 
@@ -70,7 +70,7 @@ Irrelevancy used to be my biggest fear. But now that I’m here and completely i
 I have some big things I really want to accomplish next year. But right now I’m not in the place to produce again, and I don’t know when I’ll give myself the green light to make things in the future. 
 
 
-So with that in mind, I only have two definite ‘will happen’ goals for 2020. They are:
+So with that in mind, I only have two definite _‘will happen’_ goals for 2020. They are:
 
 * Follow the Magic (and cut out anything that isn’t magical)
 * Set solid, Consistent Routine/Habits
@@ -99,26 +99,21 @@ This is my ideal routine. I don’t expect to actually nail all of these things,
 
 * Reading 1 hr/day
 * Meditation 30 min/day
-Exercising consistently
-Run 3 days/week
-Start Weightlifting
-Yoga weekly
-Eating healthy
-It’s simple: focus on quality first
-I want to eat a tomato that tastes like the color red. I want to focus on high-quality food. 
-Grooming routine
-Skincare routine, hair care routine, flattering clothes
-I want to leave the house feeling like a boss bitch every day (but in a natural, approachable way)
-Create for 1hr/day (anything I want!)
-Consistent bed time (this one is SO hard for me)
-Find ‘my people’ here in Seattle
-Makers
-Dreamers
-Adventurers
-People of Integrity
-People who live consciously
-Visionaries
-Plan ahead weekly and daily
+* Exercising consistently
+* Run 3 days/week
+* Start Weightlifting
+* Yoga weekly
+* Eating healthy
+* It’s simple: focus on quality first
+* I want to eat a tomato that tastes like the color red. I want to focus on high-quality food. 
+* Grooming routine
+* Skincare routine, hair care routine, flattering clothes
+* I want to leave the house feeling like a boss bitch every day (but in a natural, approachable way)
+* Create for 1hr/day (anything I want!)
+* Consistent bed time (this one is SO hard for me)
+* Find ‘my people’ here in Seattle
+* Makers, dreamers, adventurers, people of Integrity, visionaries
+* Plan ahead weekly and daily
 
 I’m going to add in my routine one step at a time. For example, right now my current focus is furnishing my house. Before that, it was finding a place to live. Next up is taking a vacation. One focus at a time, so that I have plenty of space to sit still with myself.
 
