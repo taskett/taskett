@@ -19,13 +19,13 @@ You know your Uncle Bob, who got a heart attack at age 58 and he was completely 
 
 (Okay, you European readers, I get it- you all live balanced lifestyles and your uncle is healthy as a horse. Just stick with me here.)
 
-In this situation, I am Uncle Bob. I started the year with a long list of things I wanted to ship, projects I wanted to collaborate on, places I wanted to visit… and what happened instead was I fell into a depression, only shipped one thing all year (burnout quiz), had to stop traveling and return home because I was such a fucking mess, and went through the hardest breakup of my life.
+In this situation, I am Uncle Bob. I started the year with a long list of things I wanted to ship, projects I wanted to collaborate on, places I wanted to visit… and what happened instead was I fell into a depression, only shipped [one thing all year](https://donewithlife.carrd.co/), had to stop traveling and return home because I was such a fucking mess, and went through the hardest breakup of my life.
 
 But, just like Uncle Bob, these things didn’t suddenly just fall out of the sky. There were a lot of long-term issues that got me to such a low point.
 
 ### I have codependency.
 
-What is codependency? My favorite description of it is, ‘Codependency is when you’re unable to tolerate the discomfort of others.’
+What is codependency? My favorite description of it is, _Codependency is when you’re unable to tolerate the discomfort of others._
 
 This usually stems from a dysfunctional childhood, and leads to a bunch of different shitty behaviors.
 
@@ -35,13 +35,13 @@ Last month, I also started attending regular group meetings for codependency. Th
 
 But going to the meetings every week has been SO freaking good for me. And the thing is, I’m not even convinced that it’s the actual content of the meetings that help so much. It’s the fact that, no matter what else is going on in my life, no matter how busy I am, no matter how I feel, I make my mental health my #1 priority and I demonstrate that every Tuesday at 7pm, rain or shine.
 
-### I am a very anxious person.
+### I have overwhelming anxiety
 
 Earlier this year, I told the story of how I couldn’t lay on my bed and do nothing for even half an hour without bursting into tears, it was so painful to not be productive.
 
-And a couple months after starting therapy, something terrifying happened. I was going on a sunny hike in the mountains on a lovely day, all alone when suddenly it felt like a bunch of dementors had surrounded me. This darkness swallowed me whole and I felt like I would never be happy again, and even worse, I realized that this awful feeling had been within me for as long as I could remember. That night I didn’t sleep at all, I just layed alone, doing nothing, feeling the pain and despair consume me, and I worried that I was just fucked for life. Is it possible to overcome something that’s always there been there since you were a little kid?
+And a couple months after starting therapy, something terrifying happened. *I was going on a sunny hike in the mountains on a lovely day, all alone when suddenly it felt like a bunch of dementors had surrounded me. This darkness swallowed me whole and I felt like I would never be happy again, and even worse, I realized that this awful feeling had been within me for as long as I could remember.* That night I didn’t sleep at all, I just layed alone, doing nothing, feeling the pain and despair consume me, and I worried that I was just fucked for life. Is it possible to overcome something that’s always there been there since you were a little kid?
 
-“This is a really good sign,” my therapist told me. “Most people never get to this point. I was there too once. Just let yourself feel it. I promise, with time, it will get way better.”
+_“This is a really good sign,”_ my therapist told me. _“Most people never get to this point. I was there too once. Just let yourself feel it. I promise, with time, it will get way better.”_
 
 So I took her advice. I stopped the nomad life (for now) and got a home base in Seattle.
 
@@ -55,7 +55,7 @@ So I took her advice. I stopped the nomad life (for now) and got a home base in 
 
 > “A year? Are you feeling okay? Who are you? You’re not my grand daughter!” 😂😂😂😂😂
 
-I have my own furniture and a lovely house that’s just mine, and I’m simultaneously thrilled about it and super scared. Now, I can’t just run away to a tropical island and avoid my issues as easily as I could have before.
+I have my own furniture and a lovely house that’s just mine, and I’m simultaneously thrilled about it and super scared. I can’t just run away to a tropical island and avoid my issues as easily as I could have before.
 
 Already I’ve had time alone in my new home to have some hours of stillness, and while it still is scary and awful, it’s nowhere near as bad as it was.
 
@@ -154,7 +154,7 @@ Once I have a solid routine in place, then I can add travel and side projects ba
 
 ---
 
-[Anne Laure](https://nesslabs.com/time-anxiety) and [Pieter Levels](https://levels.io/enjoy-your-tea-and-a-cookie/) recently wrote about their experiences and interpretations of a concept called time anxiety.
+[Anne Laure](https://nesslabs.com/time-anxiety) and  recently wrote about their experiences and interpretations of a concept called time anxiety.
 
 **My definition of time anxiety is: the time in your life when you realize that you are mortal and life is short, and you respond by filling your time with as much meaning as possible.**
 
