@@ -53,7 +53,7 @@ For that same reason, I’ve taken a really long break from any side hustles or 
 
 What is codependency? My favorite description of it is, _Codependency is when you’re unable to tolerate the discomfort of others._
 
-This usually stems from a dysfunctional childhood, and leads to a bunch of different shitty behaviors.
+This usually stems from a dysfunctional childhood, and leads to a bunch of different [shitty behaviors](http://coda.org/index.cfm/meeting-materials1/patterns-of-recovery/).
 
 I’ve known for a few years that I’ve had this, and I’ve done some personal work on it, but I didn’t know how deeply it affected every area of my life until my breakup in June. While it really sucked, it was a big wakeup call for me, and I started regularly seeing a therapist. 
 
