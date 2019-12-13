@@ -31,7 +31,8 @@ Chinatown, that one dumpling joint with the roaches on the walls, the place wher
 
 This is that playground now.
 
-(/assets/images/sf_playground.jpg "children's playground")
+
+![alt text][/assets/images/sf_playground.jpg]
 
 All the Uber drivers tell me the city is haunted… and everywhere I go I see ghosts of a city that’s been gone for a long time now.
 
