@@ -23,7 +23,7 @@ Intelligence, cunning, games of strategy, handshakes and veneered smiles. A Slyt
 
 History, four generations born here, grandma’s house here, family businesses owned here. Feels more like home than my current base does.
 
-It’s It, See’s Candy, succulents, brown (ahem, golden) hills, blue water, clear skies, the feeling that California has of that beautiful devil whispering into your ear seductively at night, beckoning you to stay, asking you to stay, telling you that you must stay or you will be nothing.
+It’s It, See’s Candy, succulents, brown (ahem, golden) hills, blue water, clear skies, the feeling that California has of that beautiful devil whispering into your ear seductively at night, beckoning you to stay, asking you to stay, telling you that _you must stay or you will be nothing._
 
 Chinatown, that one dumpling joint with the roaches on the walls, the place where my Mom and Step Dad had their first date. 
 
