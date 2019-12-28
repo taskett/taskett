@@ -38,6 +38,7 @@ I've spent the last 6 months laying the ground work for a much, much better 2020
 ### Financial:
 
 **Saved:** 40% of gross income
+
 **Net Profit from Side Projects:** $103 (all from my [Bangkok Street Food](https://www.amazon.com/Bangkok-Street-Food-Authentic-Greatest-ebook/dp/B07JZJFQV4/) cookbook)
 
 ### Reading:
@@ -64,4 +65,4 @@ In 2020, I want to give myself lots of room to breathe. To recover. To start ove
 
 And there you have it! I plan on renovating this site in January and adding an /open area where you'll be able to track key goals along with me in 2020. 
 
-I also plan on getting more specific with my big goals as 2020 goes on. I'm still in 'recovery mode' so focusing on pursuing big goals is on the backburner while I continue to pursue stability and recovery. I am hoping in Q2 of 2020 I'll be able to focus on more 'sexy' goals, like increasing my MRR 
+I also plan on getting more specific with my big goals as 2020 goes on. I'm still in 'recovery mode', so focusing on pursuing big goals is on the backburner while I continue to pursue stability and recovery. I am hoping in Q2 of 2020 I'll be able to focus on more 'sexy' goals, like increasing my MRR 
