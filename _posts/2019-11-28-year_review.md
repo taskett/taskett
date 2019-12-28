@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Embracing Irrelevancy: 2019 Review and 2020 Plans"
+title:  "2019 Review and 2020 Plans"
 categories: [makers]
 tags: [2019 review]
 image: assets/images/time_anxiety.jpg
