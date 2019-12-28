@@ -19,24 +19,27 @@ In this situation, **I am Uncle Bob.** I spent the first half of the year blamin
 
 One night I was quora-ing what to do when you dislike your job, and one answer slapped me hard in the face. The poster said that his friends who like their jobs all have well-managed lives. Not only do they enjoy what they do for a living, but they have healthy marriages, well run homes, great friendships, the list goes on. He went on to say that if you’re not happy with your job, perhaps _you_ are the problem.
 
-I realized I was unhappy everywhere. That was the day that things started to turn around.
+I realized I was unhappy everywhere.
 
-I reflected and realized that poor habits over many years got me to the sad state I was in. I started seeing a therapist, stopped the nomad life (for now), and got a home base in Seattle. I also took a long break from any side hustles or related projects, and focused my energies on stability and mental health.
+That was the day that things started to turn around. I reflected and realized that poor habits over many years got me to the sad state I was in. I started seeing a therapist, stopped the nomad life (for now), and got a home base in Seattle. I also took a long break from any side hustles or related projects, and focused my energies on stability and mental health.
 
 It’s starting to show. I don’t know if I’m _happy_ yet, but I am not depressed or burned out anymore, so I’ll take it! Things at work have gone from night to day, and I don’t feel like the Earth is crumbling out from under my feet in my personal life anymore.
 
 ## 2019 In Numbers
+
 **Total Goals:** 18
+
 **Goals Fully Completed:** 7
+
 **Avg % Completion:** 50.36%
 
 ### Financial:
 **Saved:** 40% of gross income
 
-**### Reading:**
-Books read: 12
-Top Topic: People Skills
-Best Book: Never Split the Difference
+### Reading:
+**Books read:** 12
+**Top Topic:** Business/People Skills
+**Best Book:** Never Split the Difference
 
 
 
