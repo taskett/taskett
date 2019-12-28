@@ -60,11 +60,11 @@ This one's pretty straightforward. Cut out the majority of things, activities, a
 
 ### Follow the Magic
 
-Magic is quality. Magic is that feeling of wonder, of goosebumps, excitement, of YES.
+Magic is that feeling of wonder, of goosebumps, excitement, of YES.
 
-Magic is something that just lights you up. It’s hard to define, but you undoubtedly know it when you feel it.
+Magic is something that just lights you up. You undoubtedly know it when you feel it.
 
-In 2020, I want to cut out anything that isn’t magic. I only want to hang out with people who feel a little bit like magic. I only want to buy or consume things that are magic. I only want to work on side projects that feel like magic. I only want to move my career in a direction that feels wondrous.
+In 2020, I want hang out with more people who feel a little bit like magic. I want to consume more things/experiences that are magic. I only want to work on side projects that feel like magic. I only want to move my career in a direction that feels _right_ in my core.
 
 
 ## Set solid, Consistent Routine/Habits
