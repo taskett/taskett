@@ -25,7 +25,7 @@ I realized that poor habits over many years got me to the sad state I was in. I 
 
 It’s starting to show. I don’t know if I’m _happy_ yet, but I am not depressed or burned out anymore, so I’ll take it! Things at work have gone from night to day, and I don’t feel like the Earth is crumbling out from under my feet in my personal life anymore.
 
-I've spent the last 6 months laying the ground work for a much, much better 2020.
+I've spent the last 6 months laying the ground work for a much, much better 2020. Bring it on!
 
 ## 2019 In Numbers
 
