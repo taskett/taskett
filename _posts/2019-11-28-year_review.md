@@ -63,6 +63,8 @@ In 2020, I want to give myself lots of room to breathe. To recover. To start ove
 
 ![](/assets/images/2020_goals_excel.jpg)
 
-And there you have it! I plan on renovating this site in January and adding an /open area where you'll be able to track key goals along with me in 2020. 
+And there you have it! I plan on renovating this site in January and adding an /open page where you'll be able to track key goals along with me in 2020. 
 
-I also plan on getting more specific with my big goals as 2020 goes on. I'm still in 'recovery mode', so focusing on pursuing big goals is on the backburner while I continue to pursue stability and recovery. I am hoping in Q2 of 2020 I'll be able to focus on more 'sexy' goals, like increasing my MRR 
+I also plan on getting more specific with my big goals as 2020 goes on. I'm still in 'recovery mode', so focusing on pursuing big goals is on the backburner while I continue to pursue stability and recovery. I am hoping in Q2 of 2020 I'll be able to hone in one some more interesting goals.
+
+For now though, I'm taking it one step at a time and building up as my body and mind gives me the go-ahead. This might not be as 'sexy' as previous years, but this way I hope to never have so much in common with 'Uncle Bob' again. ;) 
