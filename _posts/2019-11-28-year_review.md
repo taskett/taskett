@@ -58,3 +58,5 @@ In 2020, I want to give myself lots of room to breathe. To recover. To start ove
     * add more people, activities, and career moves that feel magical and _right_ in my core
 * Set a great Routine
     * make sure all the healthy things in life are automated so that I don’t have to waste extra time trying to get my shit together, because it’s all on auto pilot.
+
+![](/assets/images/2020.jpg)
