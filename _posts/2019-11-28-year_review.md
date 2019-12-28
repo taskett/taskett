@@ -3,7 +3,7 @@ layout: post
 title:  "2019 Review and 2020 Plans"
 categories: [makers]
 tags: [2019 review]
-image: assets/images/time_anxiety.jpg
+image: assets/images/2020.jpg
 description: 
 featured: false
 hidden: false
@@ -17,13 +17,13 @@ You know your Uncle Bob, who got a heart attack at age 58 and he was completely 
 
 In this situation, **I am Uncle Bob.** I spent the first half of the year blaming my unhappiness on everyone and everything around me, failing to notice that I was the source of most of my problems. I was in a dark place with my job, my lifestyle, my appearance, my relationship… you name it.
 
-One night I was quora-ing what to do when you dislike your job, and one answer slapped me hard in the face. The poster said that his friends who like their jobs all have well-managed lives. Not only do they enjoy what they do for a living, but they have healthy marriages, well run homes, great friendships, the list goes on. He went on to say that if you’re not happy with your job, perhaps you are the problem.
+One night I was quora-ing what to do when you dislike your job, and one answer slapped me hard in the face. The poster said that his friends who like their jobs all have well-managed lives. Not only do they enjoy what they do for a living, but they have healthy marriages, well run homes, great friendships, the list goes on. He went on to say that if you’re not happy with your job, perhaps _you_ are the problem.
 
 I realized I was unhappy everywhere. That was the day that things started to turn around.
 
-I started seeing a therapist, stopped the nomad life (for now), and got a home base in Seattle. I also took a long break from any side hustles or related projects, and focused my energies on stability and mental health.
+I reflected and realized that poor habits over many years got me to the sad state I was in. I started seeing a therapist, stopped the nomad life (for now), and got a home base in Seattle. I also took a long break from any side hustles or related projects, and focused my energies on stability and mental health.
 
-It’s starting to show. I don’t know if I’m happy yet, but I am not depressed or burned out anymore, so I’ll take it! Things at work have gone from night to day, and I don’t feel like the Earth is crumbling out from under my feet in my personal life anymore.
+It’s starting to show. I don’t know if I’m _happy_ yet, but I am not depressed or burned out anymore, so I’ll take it! Things at work have gone from night to day, and I don’t feel like the Earth is crumbling out from under my feet in my personal life anymore.
 
 
 
