@@ -52,11 +52,11 @@ I've spent the last 6 months laying the ground work for a much, much better 2020
 
 In 2020, I want to give myself lots of room to breathe. To recover. To start over on a healthy foundation. So with that in mind, my main goals for 2020 are:
 
-* Simplify my Life
+* **Simplify my Life**
     * cut out the majority of things, activities, and people who primarily drain me
-* Follow the Magic
+* **Follow the Magic**
     * add more people, activities, and career moves that feel magical and _right_ in my core
-* Set a great Routine
+* **Set a great Routine**
     * make sure all the healthy things in life are automated so that I don’t have to waste extra time trying to get my shit together, because it’s all on auto pilot.
 
-![](/assets/images/2020.jpg)
+![](/assets/images/2020_goals_excel.jpg)
