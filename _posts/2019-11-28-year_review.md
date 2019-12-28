@@ -46,27 +46,17 @@ It’s starting to show. I don’t know if I’m _happy_ yet, but I am not depre
 **Best Book:** Never Split the Difference
 
 
-
-
-
-
-
-
 ## What’s in store for 2020
 
-Irrelevancy used to be my biggest fear. But now that I’m here and completely irrelevant, I’m okay with it. If that’s what it’s going to take for me to be okay with myself, then hell yeah! Bring it on.
+This year, I want to give myself a lot of room to breathe. To recover. To start over on a healthy foundation. So to keep it simple, **I only have two definite _‘will happen’_ goals for 2020. They are:**
 
-I have some big things I really want to accomplish next year. But right now I’m not in the place to produce again, and I don’t know when I’ll give myself the green light to make things in the future. 
+* Simplify my Life
+* Follow the Magic
+* Set a great Routine
 
+### Simplify My Life
 
-So with that in mind, **I only have two definite _‘will happen’_ goals for 2020. They are:**
-
-* Follow the Magic (and cut out anything that isn’t magical)
-* Set solid, Consistent Routine/Habits
-
-First off, when was the last time you took a real vacation? For me, it was March of 2018. So in January, I’m going to go somewhere really boring (Arizona wooo!) and I’m so psyched to sit by a pool, have meals with my family, and hike a ton of mountains in the sunshine and warm weather for a couple of weeks.
-
-After that...
+This one's pretty straightforward. Cut out the majority of things, activities, and people who primarily drain me.
 
 ### Follow the Magic
 
