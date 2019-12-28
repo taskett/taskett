@@ -25,6 +25,8 @@ I realized that poor habits over many years got me to the sad state I was in. I 
 
 It’s starting to show. I don’t know if I’m _happy_ yet, but I am not depressed or burned out anymore, so I’ll take it! Things at work have gone from night to day, and I don’t feel like the Earth is crumbling out from under my feet in my personal life anymore.
 
+I've spent the last 6 months laying the ground work for a much, much better 2020.
+
 ## 2019 In Numbers
 
 **Total Goals:** 18
@@ -46,9 +48,9 @@ It’s starting to show. I don’t know if I’m _happy_ yet, but I am not depre
 **Best Book:** Never Split the Difference
 
 
-## What’s in store for 2020
+## What’s in store for 2020?
 
-This year, I want to give myself a lot of room to breathe. To recover. To start over on a healthy foundation. So to keep it simple, **I only have two definite _‘will happen’_ goals for 2020. They are:**
+This year, I want to give myself lots of room to breathe. To recover. To start over on a healthy foundation. So with that in mind, my main goals for 2020 are:
 
 * Simplify my Life
 * Follow the Magic
