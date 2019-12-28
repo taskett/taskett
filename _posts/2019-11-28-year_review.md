@@ -67,4 +67,4 @@ And there you have it! I plan on renovating this site in January and adding an /
 
 I also plan on getting more specific with my big goals as 2020 goes on. I'm still in 'recovery mode', so focusing on pursuing big goals is on the backburner while I continue to pursue stability and recovery. I am hoping in Q2 of 2020 I'll be able to hone in one some more interesting goals.
 
-For now though, I'm taking it one step at a time and building up as my body and mind gives me the go-ahead. This might not be as 'sexy' as previous years, but this way I hope to never have so much in common with 'Uncle Bob' again. ;) 
+For now though, I'm taking it one step at a time and building up as my body and mind gives me the go-ahead. This might not be as 'sexy' as my goals for previous years, but this way I hope to not have much in common with 'Uncle Bob'ever again. ;) 
