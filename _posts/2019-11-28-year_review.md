@@ -34,11 +34,15 @@ It’s starting to show. I don’t know if I’m _happy_ yet, but I am not depre
 **Avg % Completion:** 50.36%
 
 ### Financial:
+
 **Saved:** 40% of gross income
 
 ### Reading:
+
 **Books read:** 12
+
 **Top Topic:** Business/People Skills
+
 **Best Book:** Never Split the Difference
 
 
