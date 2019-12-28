@@ -53,24 +53,8 @@ I've spent the last 6 months laying the ground work for a much, much better 2020
 In 2020, I want to give myself lots of room to breathe. To recover. To start over on a healthy foundation. So with that in mind, my main goals for 2020 are:
 
 * Simplify my Life
+    * cut out the majority of things, activities, and people who primarily drain me
 * Follow the Magic
+    * add more people, activities, and career moves that feel magical and _right_ in my core
 * Set a great Routine
-
-### Simplify My Life
-
-This one's pretty straightforward. Cut out the majority of things, activities, and people who primarily drain me.
-
-### Follow the Magic
-
-Magic is that feeling of wonder, of goosebumps, excitement, of YES. Magic is something that just lights you up. You undoubtedly know it when you feel it.
-
-In 2020, I want hang out with more people who feel a little bit like magic. I want to consume more things/experiences that are magic. I only want to work on side projects that feel like magic. I will only move my career in a direction that feels _right_ in my core.
-
-
-## Set solid, Consistent Routine/Habits
-
-**A great routine = all the healthy things in life are automated so that you don’t have to waste extra time trying to get your shit together, because it’s all on auto pilot.**
-
-*Confession:* I’ve never stuck to a real routine. But I also think it’s an ‘Uncle Bob’ symptom that has led to a lot of energy being spent unnecessarily. 
-
-Once I have a solid routine in place, then I can add travel and side projects back in, and have a good foundation for those things to rest upon.
+    * make sure all the healthy things in life are automated so that I don’t have to waste extra time trying to get my shit together, because it’s all on auto pilot.
