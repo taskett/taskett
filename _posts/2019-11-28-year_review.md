@@ -62,20 +62,15 @@ This one's pretty straightforward. Cut out the majority of things, activities, a
 
 ### Follow the Magic
 
-Magic is that feeling of wonder, of goosebumps, excitement, of YES.
+Magic is that feeling of wonder, of goosebumps, excitement, of YES. Magic is something that just lights you up. You undoubtedly know it when you feel it.
 
-Magic is something that just lights you up. You undoubtedly know it when you feel it.
-
-In 2020, I want hang out with more people who feel a little bit like magic. I want to consume more things/experiences that are magic. I only want to work on side projects that feel like magic. I only want to move my career in a direction that feels _right_ in my core.
+In 2020, I want hang out with more people who feel a little bit like magic. I want to consume more things/experiences that are magic. I only want to work on side projects that feel like magic. I will only move my career in a direction that feels _right_ in my core.
 
 
 ## Set solid, Consistent Routine/Habits
 
+**A great routine = all the healthy things in life are automated so that you don’t have to waste extra time trying to get your shit together, because it’s all on auto pilot.**
 
-*Confession:* I’ve never stuck to a real routine. I don’t think my brain likes organization or consistency. But I also think it’s an ‘Uncle Bob’ symptom that has led to a lot of energy being spent unnecessarily. **A routine = all the healthy things in life are automated so that you don’t have to waste extra time trying to get your shit together, because it’s all on auto pilot.**
-
-At least, that’s what I hope, because as I just told you, I’ve never had a real routine before that I’ve stuck to!
-
-This is my ideal routine. I don’t expect to actually nail all of these things, but, hey, shoot for the moon and you’ll land among the stars right?
+*Confession:* I’ve never stuck to a real routine. But I also think it’s an ‘Uncle Bob’ symptom that has led to a lot of energy being spent unnecessarily. 
 
 Once I have a solid routine in place, then I can add travel and side projects back in, and have a good foundation for those things to rest upon.
