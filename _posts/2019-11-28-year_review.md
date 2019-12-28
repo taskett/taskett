@@ -76,26 +76,4 @@ At least, that’s what I hope, because as I just told you, I’ve never had a r
 
 This is my ideal routine. I don’t expect to actually nail all of these things, but, hey, shoot for the moon and you’ll land among the stars right?
 
-### IDEAL ROUTINE
-
-* Reading 1 hr/day
-* Meditation 30 min/day
-* Exercising consistently
-    * Run 3 days/week
-    * Start Weightlifting
-    * Yoga weekly
-* Eating healthy
-    * It’s simple: focus on quality first
-    * I want to eat a tomato that tastes like the color red. I want to focus on high-quality food. 
-* Grooming routine
-    * Skincare routine, hair care routine, flattering clothes
-    * I want to leave the house feeling like a boss bitch every day (but in a natural, approachable way)
-* Create for 1hr/day (anything I want!)
-* Consistent bed time (this one is SO hard for me)
-* Find ‘my people’ here in Seattle
-    * Makers, dreamers, adventurers, people of Integrity, visionaries
-* Plan ahead weekly and daily
-
-I’m going to add in my routine one step at a time. For example, right now my current focus is furnishing my house. Before that, it was finding a place to live. Next up is taking a vacation. One focus at a time, so that I have plenty of space to sit still with myself.
-
 Once I have a solid routine in place, then I can add travel and side projects back in, and have a good foundation for those things to rest upon.
