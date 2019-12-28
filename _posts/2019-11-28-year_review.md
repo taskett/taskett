@@ -33,7 +33,7 @@ I've spent the last 6 months laying the ground work for a much, much better 2020
 
 **Goals Fully Completed:** 7
 
-**Avg % Completion:** 50.36%
+**Avg % Completion of each Goal:** 50.36%
 
 ### Financial:
 
@@ -50,7 +50,7 @@ I've spent the last 6 months laying the ground work for a much, much better 2020
 
 ## What’s in store for 2020?
 
-This year, I want to give myself lots of room to breathe. To recover. To start over on a healthy foundation. So with that in mind, my main goals for 2020 are:
+In 2020, I want to give myself lots of room to breathe. To recover. To start over on a healthy foundation. So with that in mind, my main goals for 2020 are:
 
 * Simplify my Life
 * Follow the Magic
