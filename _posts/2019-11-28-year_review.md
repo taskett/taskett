@@ -25,6 +25,21 @@ I reflected and realized that poor habits over many years got me to the sad stat
 
 It’s starting to show. I don’t know if I’m _happy_ yet, but I am not depressed or burned out anymore, so I’ll take it! Things at work have gone from night to day, and I don’t feel like the Earth is crumbling out from under my feet in my personal life anymore.
 
+## 2019 In Numbers
+
+### 2019 Goals:
+Total Goals: 18
+Goals Fully Completed: 7
+Avg % Completion: 50.36%
+
+### Financial:
+Saved: 40% of income
+
+### Reading:
+Books read: 12
+Top Topic: People Skills
+Best Book: Never Split the Difference
+
 
 
 
